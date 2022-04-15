@@ -1,19 +1,18 @@
 # Extension
 
-- If for some unplanned reasons the student cannot finish their thesis within the stipulated time limit, they should fill the extension form properly explaining the reasons.  
+- If a student cannot finish their thesis within the stipulated time limit for some unplanned reasons, they should fill the extension form.  
 
-- As per the department guidelines, it is imperative that students must explain their reasons in detail (at least half a page).
+- As per the department guidelines, it is imperative that the student must explain their extension request reason in detail (at least half a page).
 
-- The extension form must be submitted to the chair secretary along with the student’s and advisor’s note at least 2 weeks in advance before the submission deadline.
+- The extension form must be submitted to the chair secretary at least 2 weeks in advance before the thesis submission deadline.
 
 ## Department guidelines
 
-Please read carefully the department guidelines [Extension of the submission deadline](https://www.in.tum.de/en/current-students/administrative-matters/thesis-guidelines-and-topics/)
+Please read carefully the department guidelines: [Extension of the submission deadline](https://www.in.tum.de/en/current-students/administrative-matters/thesis-guidelines-and-topics/)
 
 ## Extension forms: 
 
-### Due to health reasons: https://www.in.tum.de/fileadmin/w00bws/in/2.Fur_Studierende/Pruefungen_und_Formalitaeten/5.Abschlussarbeit/Request_ThesisExtension_Health.pdf
+- [Due to health reasons](https://www.in.tum.de/fileadmin/w00bws/in/2.Fur_Studierende/Pruefungen_und_Formalitaeten/5.Abschlussarbeit/Request_ThesisExtension_Health.pdf)
 
-### Other reasons:
-https://www.in.tum.de/fileadmin/w00bws/in/2.Fur_Studierende/Pruefungen_und_Formalitaeten/5.Abschlussarbeit/Request_ThesisExtension_Other.pdf 
+- [Other reasons](https://www.in.tum.de/fileadmin/w00bws/in/2.Fur_Studierende/Pruefungen_und_Formalitaeten/5.Abschlussarbeit/Request_ThesisExtension_Other.pdf) 
 
