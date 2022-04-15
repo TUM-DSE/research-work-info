@@ -35,7 +35,7 @@ All the steps needed to complete your thesis.
 
 
 ###################################################################
-# Thesis submission process starts here!!
+# Thesis submission process starts here!
 
 ## Stage 1: Thesis final approval
 
