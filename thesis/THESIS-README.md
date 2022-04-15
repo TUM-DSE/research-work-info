@@ -1,17 +1,12 @@
-# Guidelines
+# Thesis guidelines
 
-Please have these guidelines in mind when writing your thesis and preparing your
-presentation.
+Please have these guidelines in mind when writing your thesis.
 
 
 ## Template
 
-Please use the following template for writing your thesis: [Thesis template](https://latex.tum.de/templates/5e18420186d30de7011c9ea2) 
+- Please use the following template for writing your thesis: [Thesis template](https://latex.tum.de/templates/5e18420186d30de7011c9ea2) 
 
-
-## Submission
-
-The final version should be submitted to the Advisor at least two weeks and to the Chair Professor at least one week before the submission deadline.
 
 
 ## Structure for the thesis
@@ -72,4 +67,17 @@ your content):
 | Master's thesis   | 1 month     | 6 months | 60 - 120   |
 | IDP               |             |          | 8-16       |
 | Guided research   |             |          | 6-12       |
+
+
+
+## Resources
+
+* [Simon Peyton Jones: How to write a great research paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
+
+* [Simon Peyton Jones: How to write a great research proposal](https://www.microsoft.com/en-us/research/academic-program/how-to-write-a-great-research-proposal/)
+
+
+* [Wie schreibe ich eine erfolgreiche Bachelorarbeit (oder Masterarbeit) in Informatik?](https://www.youtube.com/watch?v=wV0QURyJ0f8)
+
+* [How to Write a Great Master Thesis? Best (and worst) practices from choosing a topic to handing in](https://www.youtube.com/watch?v=SC_fIWKbCa0)
 
