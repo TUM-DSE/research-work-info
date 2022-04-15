@@ -12,10 +12,11 @@ All the steps needed to complete your thesis.
     - [extension](extension/EXTEND-README.md)
     
 
-4 weeks before registration:
-* [ ] I familiarized myself with the thesis topic.
-* [ ] I read related work about the topic [if existent].
+6-8 weeks before registration:
+* [ ] I familiarized myself with the thesis topic
+* [ ] I read the related work about the thesis topic
 * [ ] I proposed a thesis timeline with concrete steps to my advisors.
+* [ ] I started with the "strawman" design and implementation.
 
 2 weeks before registration:
 * [ ] Filled in registration forms, returned to secretary of the chair.
@@ -28,59 +29,63 @@ All the steps needed to complete your thesis.
 * [ ] Thesis registered towards the 15th of a month.
 
 
-## After registration
+## Intermediate presentation
 
-1.5 months (BSc) / 2 months (MSc) after registration:
+Roughly 1.5 months (BSc) / 2 months (MSc) after registration:
 * [ ] Intermediate talk scheduled. Date: yyyy-mm-dd hh:mm
 
 2 weeks before intermediate talk:
-* [ ] I checked the resources on how to give a talk.
+* [ ] I checked the resources on how to give a talk
 * [ ] Beta version of slides ready
-* [ ] ... and discussed with advisors.
+* [ ] ... and discussed with advisors
 
-1 week before intermediate talk:
-* [ ] Test talk given to advisors [optional].
+Intermediate talk:
+* [ ] Intermediate talk given to advisors
+
+## Towards thesis submission
 
 2 months before submission:
 * [ ] I checked the resources on how to write a thesis.
 * [ ] Thesis structure prepared
-* [ ] ... and discussed with advisors.
-
-3 weeks before submission:
-* [ ] Thesis draft ready
-* [ ] ... and discussed with advisors.
+* [ ] ... and discussed with advisors
 * [ ] Checked if working title is still suitable
-* [ ] ... if not: application for changing the title filed.
+* [ ] ... if not: application for changing the title filed
+
+2 weeks before the submission deadline to get the final approval to submit the thesis:
+* [ ] Send thesis draft to the advisor
+* [ ] Send thesis draft to professor of the chair
 
 
-2 weeks before submission:
-* [ ] Send thesis draft to the advisor.
-* [ ] Send thesis draft to professor of the chair.
+## Official thesis submission
 
+After the final approval from the advisor and Professor, submit the thesis:
+* [ ] One printout delivered to Prüfungsamt
+* [ ] One pdf to Prof. Bhatotia
+* [ ] One pdf advisor
+* [ ] One pdf the chair secretary
 
-## Submission
+## Final presentation
 
-* [ ] One printout delivered to Prüfungsamt.
-* [ ] One pdf to Prof. Bhatotia.
-* [ ] One pdf advisor.
-* [ ] One pdf the chair secretary.
-* [ ] Thesis added to the chair's theses repository.
-
-
-## After submission
-
+* [ ] Scheduled the final presentation with your advissor
 * [ ] Final Talk scheduled. Date: yyyy-mm-dd hh:mm
 
 About 1-2 weeks before final talk:
 * [ ] Beta version of slides ready
-* [ ] ... and discussed with advisors.
+* [ ] ... and discussed with advisors
 
-1 week before final talk:
-* [ ] Test talk given to advisors [optional].
+Final talk:
+* [ ] Final presentation given to the advisors
 
 After final talk:
-* [ ] Slides of final talk added to the chair's theses repository.
-* [ ] Key returned to secretary.
-* [ ] Hardware and other devices returned to advisors.
-* [ ] Work space cleaned.
+* [ ] Key returned to secretary
+* [ ] Hardware and other devices returned to advisors
+* [ ] Work space cleaned
 
+
+## Archive your thesis and presentation
+* [ ] Thesis [PDF] added to the chair's theses repository
+* [ ] Presentation slides [PDF] added to the chair's theses repository
+
+
+## Assessment
+* [ ] Request the advisor to submit the assessment form and CV to the chair secretary
