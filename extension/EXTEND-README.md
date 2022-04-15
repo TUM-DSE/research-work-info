@@ -4,7 +4,7 @@
 
 -  **Important:** As per the department guidelines (see below), it is imperative that the student must properly explain their extension request reason in detail (at least half a page).
 
-- **Extension form submission and deadline:**  The extension form must be submitted to the chair secretary at least 2 weeks in advance before the final thesis submission deadline.
+- **Extension form submission and deadline:**  The extension form must be submitted to the chair secretary **at least 2 weeks** in advance before the final thesis submission deadline (the 15th of the final month).
 
 ## Department guidelines
 
