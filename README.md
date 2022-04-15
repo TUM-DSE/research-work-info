@@ -1,9 +1,8 @@
-# My thesis at the Chair of Decentralized Systems Engineering (DSE)
+# My thesis at the [Chair of Decentralized Systems Engineering (DSE)](https://dse.in.tum.de/)
 
 Fork this repository and adapt it to your needs. You should find everything here
 that you will need to successfully complete your bachelor's or master's thesis at our [chair](https://dse.in.tum.de/theses/).
 
-## [Chair website](https://dse.in.tum.de/)
 
 
 ## Where to start
