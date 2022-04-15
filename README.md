@@ -49,18 +49,18 @@ The advisor must use the following form for the final assesment and send the rep
 ## Grading
 For grading, the standard TUM grading scheme will be used. Please see the table below.
 
-| Grade score | Grade title |
-|-------------------|------------|
-| 1.0  | Very good |
-| 1.3  |  |
-| 1.7  |  Good |
-| 2.0  |   |
-| 2.3  |   |
-| 2.7  | Statisfactory |
-| 3.0  | |
-| 3.3  | |
-| 3.7  | Sufficient |
-| 4.0  | |
-| 4.3  | Fail |
-| 4.7  | |
-| 5.0  | |
+| Grade score       | Grade title   |
+|-------------------|---------------|
+| 1.0               | Very good     |
+| 1.3               |               |
+| 1.7               |               |
+| 2.0               | Good          |
+| 2.3               |               |
+| 2.7               |               |
+| 3.0               | Statisfactory |
+| 3.3               |               |
+| 3.7               |               |
+| 4.0               | Sufficient    |
+| 4.3               | Fail          |
+| 4.7               |               |
+| 5.0               |               |
