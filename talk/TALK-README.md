@@ -9,11 +9,11 @@ Please have these guidelines in mind when preparing your presentation.
 - If you hesistate to use Google docs for personal/data protection issue, please feel free to use a different software.
 
 
-## Structure for the final presentation
+## Structure
 
 - Please do not use more than 10-15 slides. 
 
-- The final talk may be structured like this (See [an example presentation](https://dse.in.tum.de/wp-content/uploads/2022/04/SafePM_eurosys22_presentation.pdf)):
+- The final talk may be structured like this (see [an example presentation](https://dse.in.tum.de/wp-content/uploads/2022/04/SafePM_eurosys22_presentation.pdf)):
     1.  Title: Project name, student name, advisor name
     2.  Motivation
     3.  Research gap
@@ -28,7 +28,7 @@ Please have these guidelines in mind when preparing your presentation.
 
 
 
-## Talk length
+## Length
 
 - Please prepare for **at most 15 mins**. This time limit will be strictly enforced.
 
@@ -37,7 +37,7 @@ Please have these guidelines in mind when preparing your presentation.
 - The total time should not exceed 20 mins.
 
 
-## Schedule the final presentation
+## Schedule
 
 - Please contact your thesis advisor to schedule the final presentation *after submitting your thesis*.
 
