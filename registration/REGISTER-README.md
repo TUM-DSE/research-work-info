@@ -9,9 +9,10 @@
 - **Form submission:** The filled form must be submitted to the chair secretary **at least two weeks** before the deadline. 
 
 - **Duration:** The standard stipulated time limit for your thesis work is as follows:
+
 |                    | Duration |
 |-------------------|------------|
-| Bachelor's thesis | 4 months   |
+| Bachelor's thesis | 4 months  |
 | Master's thesis   | 6 months |
 
 ## Important guidelines
