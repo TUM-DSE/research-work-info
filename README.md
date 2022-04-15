@@ -1,7 +1,10 @@
-# My thesis
+# My thesis at the Chair of Decentralized Systems Engineering (DSE)
 
 Fork this repository and adapt it to your needs. You should find everything here
-that you will need to successfully complete your bachelor's or master's thesis at our chair.
+that you will need to successfully complete your bachelor's or master's thesis at our [chair](https://dse.in.tum.de/theses/).
+
+## [Chair website](https://dse.in.tum.de/)
+
 
 ## Where to start
 
@@ -62,3 +65,7 @@ For grading, the standard TUM grading scheme will be used. Please see the table 
 | 4.3               | Fail          |
 | 4.7               |               |
 | 5.0               |               |
+
+## Contact
+
+For any further questions/comments, please contact our [chair administration](https://dse.in.tum.de/contact/).
