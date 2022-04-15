@@ -26,7 +26,7 @@ Please have these guidelines in mind when preparing your presentation.
     10. Evaluation
     11. Conclusion
 
-- In general, "less is more" -- We like simple and clean slides.
+- In general, "less is more". We like simple and clean slides. Please prepare properly!
 
 
 ## Length
