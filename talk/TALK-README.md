@@ -26,13 +26,14 @@ Please have these guidelines in mind when preparing your presentation.
     10. Evaluation
     11. Conclusion
 
+- In general, "less is more" -- We like simple and clean slides.
 
 
 ## Length
 
-- Please prepare for **at most 15 mins**. This time limit will be strictly enforced.
+- Please prepare your talk for **at most 15 mins**. This time limit will be strictly enforced.
 
-- In addition, please allocate 5 mins for Q&A and discussion
+- In addition, please allocate 5 mins for Q&A and discussion.
 
 - The total time should not exceed 20 mins.
 
