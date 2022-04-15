@@ -19,7 +19,6 @@ Your thesis submission will proceed in the following five stages:
 - **Stage 2:** After the final approval from your advisor and Prof. Bhatotia, please submit the following:
 
     * One printout delivered to Prüfungsamt.
-    * Final pdf to the chair secretary.
     * Final pdf to Prof. Bhatotia.
     * Final pdf to advisor.
 
