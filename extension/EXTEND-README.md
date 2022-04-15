@@ -1,4 +1,4 @@
-# Extension
+# Thesis extension
 
 - **Purpose:**  If a student cannot finish their thesis work within the stipulated time limit for some unplanned reasons, they should fill an extension form (see below).  
 
