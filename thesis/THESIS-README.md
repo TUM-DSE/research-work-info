@@ -61,10 +61,10 @@ your content):
 
 ## Expected page count
 
-|                   | Preparation | Duration | Page count |
-|-------------------|-------------|----------|------------|
-| Bachelor's thesis | 1 month     | 4 months | 40 - 80    |
-| Master's thesis   | 1 month     | 6 months | 60 - 120   |
+|                    | Page count |
+|-------------------|------------|
+| Bachelor's thesis |  40 - 80    |
+| Master's thesis   | 60 - 120   |
 
 
 
