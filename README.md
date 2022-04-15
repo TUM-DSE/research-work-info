@@ -43,8 +43,7 @@ The advisor must use the following form for the final assesment and send the rep
 * [Asssesment form](https://docs.google.com/document/d/1Isy1vj3w-B3UzykZMwliBM8m0YdpLMrTRgCtAUVF0so/edit?usp=sharing) 
 
 ## Grading
-For grading, the standard TUM grading scheme will be used, i.e., 1.0, 1.3, 1.7,
-2.0, ..., 5.0.
+For grading, the standard TUM grading scheme will be used. Please see the table below.
 
 | Grade score | Grade title |
 |-------------------|------------|
