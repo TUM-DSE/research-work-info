@@ -45,7 +45,12 @@ Intermediate talk:
 * [ ] Checked if working title is still suitable
 * [ ] ... if not: application for changing the title filed
 
-2 weeks before the submission deadline to get the final approval to submit the thesis:
+
+################################
+
+## Thesis final approval
+
+2 weeks before the submission deadline get the final approval to submit the thesis:
 * [ ] Send thesis draft to the advisor
 * [ ] Send thesis draft to Prof. Bhatotia
 
