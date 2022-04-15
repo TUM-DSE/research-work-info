@@ -46,16 +46,18 @@ Intermediate talk:
 * [ ] ... if not: application for changing the title filed
 
 
-################################
+###################################################################
+# Thesis submission process starts here!!
+###################################################################
 
-## Thesis final approval
+## Stage 1: Thesis final approval
 
 2 weeks before the submission deadline get the final approval to submit the thesis:
 * [ ] Send thesis draft to the advisor
 * [ ] Send thesis draft to Prof. Bhatotia
 
 
-## Official thesis submission
+## Stage 2: Official thesis submission
 
 After the final approval from the advisor and Professor, submit the thesis:
 * [ ] One printout delivered to Prüfungsamt
@@ -63,7 +65,7 @@ After the final approval from the advisor and Professor, submit the thesis:
 * [ ] One pdf advisor
 * [ ] One pdf the chair secretary
 
-## Final presentation
+## Stage 3: Final presentation
 
 * [ ] Scheduled the final presentation with your advisor
 * [ ] Final Talk scheduled. Date: yyyy-mm-dd hh:mm
@@ -76,14 +78,14 @@ Final talk:
 * [ ] Final presentation given to the advisors
 
 
-## Archive your thesis and presentation
+## Stage 4: Archive your thesis and presentation
 
 Archive the following  to the chair's theses repository
 * [ ] Thesis [PDF]
 * [ ] Presentation slides [PDF]
 
 
-## Assessment
+## Stage 5: Assessment
 
 Request the advisor to submit the following to the chair secretary
 * [ ] Assessment form
