@@ -8,7 +8,7 @@
         
     - [MSc thesis registration form](https://www.in.tum.de/fileadmin/w00bws/in/2.Fur_Studierende/2.Master_Studiengaenge/1.Informatik/6.Abschlussarbeit/masterthesis_Anmeldung_Info_EN_220113.pdf)
 
-- **Form submission:** The filled form must be submitted to the chair secretary a week before the deadline. 
+- **Form submission:** The filled form must be submitted to the chair secretary **at least a week** before the deadline. 
 
 
 ## Important guidelines
