@@ -13,7 +13,7 @@
 
 ## Important guidelines
 
-- Given that we have a strict time limit to accomplish a thesis (6 months for MSc and 4 months for BSc), please ensure that you as a student clearly understand the thesis problem statement and scope before registering your thesis.
+- Given that we have a strict time limit to accomplish a thesis (6 months for MSc and 4 months for BSc), please ensure that you clearly understand the thesis problem statement and scope before registering your thesis.
 
 
 - In general, before registering your thesis, it is a good practice to closely work with your thesis advisor. This would help you to get familiar with the related work, problem statement, and scope of your thesis work. Please also briefly bootstrap the work by implementing a "strawman" design. This will give you a very good idea and confidence going forward with your thesis work. 
