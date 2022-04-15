@@ -19,9 +19,8 @@ All the steps needed to complete your thesis.
 * [ ] I started with the "strawman" design and implementation
 
 2 weeks before registration:
-* [ ] Filled in registration forms, returned to secretary of the chair
-* [ ] Requested a personal workspace at the chair [optional]
-* [ ] ... and requested secretary for key [optional]
+* [ ] Filled in the registration form, returned to secretary of the chair
+
 
 
 ## Registration
@@ -53,7 +52,7 @@ Intermediate talk:
 
 2 weeks before the submission deadline to get the final approval to submit the thesis:
 * [ ] Send thesis draft to the advisor
-* [ ] Send thesis draft to professor of the chair
+* [ ] Send thesis draft to Prof. Bhatotia
 
 
 ## Official thesis submission
@@ -75,11 +74,6 @@ About 1-2 weeks before final talk:
 
 Final talk:
 * [ ] Final presentation given to the advisors
-
-After final talk:
-* [ ] Key returned to secretary
-* [ ] Hardware and other devices returned to advisors
-* [ ] Work space cleaned
 
 
 ## Archive your thesis and presentation
