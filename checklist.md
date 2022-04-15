@@ -23,18 +23,6 @@ All the steps needed to complete your thesis.
 
 * [ ] Thesis registered towards the 15th of a month.
 
-## Intermediate presentation
-
-Roughly 1.5 months (BSc) / 2 months (MSc) after registration:
-* [ ] Intermediate talk scheduled. Date: yyyy-mm-dd hh:mm
-
-2 weeks before intermediate talk:
-* [ ] I checked the resources on how to give a talk
-* [ ] Beta version of slides ready
-* [ ] ... and discussed with advisors
-
-Intermediate talk:
-* [ ] Intermediate talk given to advisors
 
 ## Towards thesis submission
 
@@ -48,7 +36,6 @@ Intermediate talk:
 
 ###################################################################
 # Thesis submission process starts here!!
-###################################################################
 
 ## Stage 1: Thesis final approval
 
