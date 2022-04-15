@@ -4,7 +4,7 @@ Please have these guidelines in mind when preparing your presentation.
 
 ## Template
 
-- **Template:** Please prepare your presentation using the following template: [Presentation template](https://docs.google.com/presentation/d/1nC1rbVy33LUU6bn1sBJ2kQyIskKzUGWqg8lsWVHSemI/edit?usp=sharing)
+- Please prepare your presentation using the following template: [Presentation template](https://docs.google.com/presentation/d/1nC1rbVy33LUU6bn1sBJ2kQyIskKzUGWqg8lsWVHSemI/edit?usp=sharing)
 
 - If you hesistate to use Google docs for personal/data protection issue, please feel free to use a different software.
 
