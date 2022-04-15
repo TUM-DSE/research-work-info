@@ -16,4 +16,18 @@ by submitting a pull request.
 
     - Thesis [PDF]
     - Presentation [PDF]
+    
+
+## Grading
+
+The overall grade is based on the following three dimensions:
+
+* Thesis work
+* Thesis write-up
+* Thesis presentation
+
+For grading, the standard TUM grading scheme will be used, i.e., 1.0, 1.3, 1.7,
+2.0, ..., 5.0.
+
+
 
