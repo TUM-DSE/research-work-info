@@ -14,11 +14,11 @@ the thesis.
 
 Your submission will proceed in the following five stages:
 
--  **Stage 1:** At least two weeks before the submission deadline, please send a PDF copy of your thesis to your advisor and Prof. Bhatotia for their final feedback and approval.
+-  **Stage 1:** At least two weeks before the submission deadline, please send a PDF copy of your thesis/report to your advisor and Prof. Bhatotia for their final feedback and approval.
 
-- **Stage 2:** After the final approval, please submit the following:
+- **Stage 2:** After their final approval, please submit the following:
 
-    * **[ONLY for BSc/MSc thesis work]**: One printout of the final thesis delivered to Prüfungsamt.
+    * **[Required ONLY for BSc/MSc thesis work]**: One printout of the final thesis delivered to Prüfungsamt.
     * Final pdf to Prof. Bhatotia.
     * Final pdf to advisor.
 
@@ -41,8 +41,10 @@ by submitting a pull request.
 
 
 - **Assessment submission:** The advisor must use the following form for the final assesment. Please send the form *along with their own CV* to the [chair secretary](https://dse.in.tum.de/contact/).
+- 
+   - The advisor must use the following form for the final assesment. Please send the form *along with their own CV* to the [chair secretary](https://dse.in.tum.de/contact/).
 
-    * [Thesis assessment form](https://docs.google.com/document/d/1Isy1vj3w-B3UzykZMwliBM8m0YdpLMrTRgCtAUVF0so/edit?usp=sharing) 
+    * [Assessment form](https://docs.google.com/document/d/1Isy1vj3w-B3UzykZMwliBM8m0YdpLMrTRgCtAUVF0so/edit?usp=sharing) 
     * **Note for Advisor's CV**: We require CVs only for the external advisors. The staff members at the chair do not need to submit their CV.
 
 ## Grading
