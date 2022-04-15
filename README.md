@@ -24,7 +24,7 @@ Your thesis submission will proceed in the following five stages:
 - **Stage 3:** Please schedule and organize your final presentation talk in consultation with your advisor (see [presentation instructions](talk/TALK-README.md)).
 
 - **Stage 4:** After your final presentation, please add the following PDFs to [the chair's theses repository](https://github.com/TUM-DSE/theses-collection)
-by submitting a pull request. (**Note:** Strictly following the naming convention to avoid cluttering our theses repo.)
+by submitting a pull request. 
     - Thesis [PDF]
     - Presentation [PDF]
 
