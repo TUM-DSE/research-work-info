@@ -5,7 +5,7 @@ All the steps needed to complete your thesis.
 
 ## Towards registration
 
-* [ ] I read the chair's [guidelines](guidelines.md) for student projects.
+* [ ] I read the chair's for thesis and talk.
 
 4 weeks before registration:
 * [ ] I familiarized myself with the thesis topic.
