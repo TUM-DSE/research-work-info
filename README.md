@@ -13,7 +13,7 @@ the thesis.
 
 Your thesis submission will proceed in the following four stages.
 
--  **Stage 1:** At least two weeks before the thesis submission deadline, please send a PDF copy of your thesis to your advisor and Prof. Bhatotia for their final feedback and approval.
+-  **Stage 1:** At least two weeks before the thesis submission deadline (15th of the final month), please send a PDF copy of your thesis to your advisor and Prof. Bhatotia for their final feedback and approval.
 
 - **Stage 2:** After approval from your advisor and Prof. Bhatotia, please submit the following:
 
