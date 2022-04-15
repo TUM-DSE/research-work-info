@@ -18,7 +18,7 @@ Your submission will proceed in the following five stages:
 
 - **Stage 2:** After the final approval, please submit the following:
 
-    * **ONLY for BSc/MSc thesis work**: One printout of the thesis delivered to Prüfungsamt.
+    * **[ONLY for BSc/MSc thesis work]**: One printout of the final thesis delivered to Prüfungsamt.
     * Final pdf to Prof. Bhatotia.
     * Final pdf to advisor.
 
