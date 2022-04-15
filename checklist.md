@@ -10,7 +10,7 @@ All the steps needed to complete your thesis.
     - [talk](talk/TALK-README.md)
     - [extension](extension/EXTEND-README.md)
     
-6-8 weeks before registration:
+4-8 weeks before registration:
 * [ ] I familiarized myself with the thesis topic
 * [ ] I read the related work about the thesis topic
 * [ ] I proposed a thesis timeline with concrete steps to my advisors
@@ -44,10 +44,10 @@ All the steps needed to complete your thesis.
 * [ ] Send thesis draft to Prof. Bhatotia
 
 
-## Stage 2: Official thesis submission
+## Stage 2: Official submission
 
 After the final approval from the advisor and Professor, submit the thesis:
-* [ ] One printout delivered to Prüfungsamt
+* [ ] One thesis printout delivered to Prüfungsamt
 * [ ] One pdf to Prof. Bhatotia
 * [ ] One pdf advisor
 
@@ -67,12 +67,11 @@ Final talk:
 ## Stage 4: Archive your thesis and presentation
 
 Archive the following  to the chair's theses repository
-* [ ] Thesis [PDF]
+* [ ] Thesis/Report [PDF]
 * [ ] Presentation slides [PDF]
 
 
 ## Stage 5: Assessment
 
 Request the advisor to submit the following to the chair secretary
-* [ ] Assessment form
-* [ ] Advisor's CV
+* [ ] Assessment requested
