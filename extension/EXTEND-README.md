@@ -12,7 +12,9 @@
 
 ## Extension forms: 
 
-There are two types of extensions forms provided by the department:
-    - [Due to health reasons](https://www.in.tum.de/fileadmin/w00bws/in/2.Fur_Studierende/Pruefungen_und_Formalitaeten/5.Abschlussarbeit/Request_ThesisExtension_Health.pdf)
-    - [Other reasons](https://www.in.tum.de/fileadmin/w00bws/in/2.Fur_Studierende/Pruefungen_und_Formalitaeten/5.Abschlussarbeit/Request_ThesisExtension_Other.pdf) 
+The department provides two types of extensions forms:
+
+ - [Due to health reasons](https://www.in.tum.de/fileadmin/w00bws/in/2.Fur_Studierende/Pruefungen_und_Formalitaeten/5.Abschlussarbeit/Request_ThesisExtension_Health.pdf)
+ 
+ - [Other reasons](https://www.in.tum.de/fileadmin/w00bws/in/2.Fur_Studierende/Pruefungen_und_Formalitaeten/5.Abschlussarbeit/Request_ThesisExtension_Other.pdf) 
 
