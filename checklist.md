@@ -15,13 +15,13 @@ All the steps needed to complete your thesis.
 6-8 weeks before registration:
 * [ ] I familiarized myself with the thesis topic
 * [ ] I read the related work about the thesis topic
-* [ ] I proposed a thesis timeline with concrete steps to my advisors.
-* [ ] I started with the "strawman" design and implementation.
+* [ ] I proposed a thesis timeline with concrete steps to my advisors
+* [ ] I started with the "strawman" design and implementation
 
 2 weeks before registration:
-* [ ] Filled in registration forms, returned to secretary of the chair.
-* [ ] Requested a personal workspace at the chair [optional].
-* [ ] ... and requested secretary for key [optional].
+* [ ] Filled in registration forms, returned to secretary of the chair
+* [ ] Requested a personal workspace at the chair [optional]
+* [ ] ... and requested secretary for key [optional]
 
 
 ## Registration
