@@ -30,7 +30,7 @@ All the steps needed to complete your thesis.
 
 ## After registration
 
-1.5 months (BA) / 2 months (MA) after registration:
+1.5 months (BSc) / 2 months (MSc) after registration:
 * [ ] Intermediate talk scheduled. Date: yyyy-mm-dd hh:mm
 
 2 weeks before intermediate talk:
@@ -41,22 +41,20 @@ All the steps needed to complete your thesis.
 1 week before intermediate talk:
 * [ ] Test talk given to advisors [optional].
 
-After intermediate talk:
-* [ ] Slides of intermediate talk added to the chair's theses repository.
-
 2 months before submission:
 * [ ] I checked the resources on how to write a thesis.
 * [ ] Thesis structure prepared
 * [ ] ... and discussed with advisors.
 
-2-3 weeks before submission:
+3 weeks before submission:
 * [ ] Thesis draft ready
 * [ ] ... and discussed with advisors.
 * [ ] Checked if working title is still suitable
 * [ ] ... if not: application for changing the title filed.
 
 
-1 week before submission:
+2 weeks before submission:
+* [ ] Send thesis draft to the advisor.
 * [ ] Send thesis draft to professor of the chair.
 
 
@@ -65,6 +63,7 @@ After intermediate talk:
 * [ ] One printout delivered to Prüfungsamt.
 * [ ] One pdf to Prof. Bhatotia.
 * [ ] One pdf advisor.
+* [ ] One pdf the chair secretary.
 * [ ] Thesis added to the chair's theses repository.
 
 

@@ -1,8 +1,7 @@
 # My thesis
 
 Fork this repository and adapt it to your needs. You should find everything here
-that you will need to successfully complete your bachelor's or master's thesis,
-interdisciplinary project or guided research at our chair.
+that you will need to successfully complete your bachelor's or master's thesis at our chair.
 
 ## Where to start
 

@@ -65,8 +65,7 @@ your content):
 |-------------------|-------------|----------|------------|
 | Bachelor's thesis | 1 month     | 4 months | 40 - 80    |
 | Master's thesis   | 1 month     | 6 months | 60 - 120   |
-| IDP               |             |          | 8-16       |
-| Guided research   |             |          | 6-12       |
+
 
 
 
