@@ -1,14 +1,13 @@
-# Guidelines
+# Talk guidelines
 
-Please have these guidelines in mind when writing your thesis and preparing your
-presentation.
+Please have these guidelines in mind when preparing your presentation.
 
 ## Template
-- Please prepare for your presentation for 15 mins (10-15 slides) using the following template: [Presentation template](https://docs.google.com/presentation/d/1nC1rbVy33LUU6bn1sBJ2kQyIskKzUGWqg8lsWVHSemI/edit?usp=sharing)
 
-- If you hesistate to use Google presentation due the data protection issue, Please feel free to use a different software for preparing your presentation.
+- Please prepare for your presentation for 10-15 slides using the following template: [Presentation template](https://docs.google.com/presentation/d/1nC1rbVy33LUU6bn1sBJ2kQyIskKzUGWqg8lsWVHSemI/edit?usp=sharing)
 
-- Please upload the final version of the talk as a PDF.
+- If you hesistate to use Google docs for personal/data protection issue, please feel free to use a different software.
+
 
 ## Structure for the final presentation
 
@@ -28,13 +27,7 @@ The final talk may be structured like this:
 
 
 
-## Expected talk lengths
+## Talk length
 
-|                   | Intermediate talk | Final talk |
-|-------------------|-------------------|------------|
-| Bachelor's thesis | 10 minutes        | 15 minutes |
-| Master's thesis   | 10 minutes        | 15 minutes |
-| IDP               | 10 minutes        | 15 minutes |
-| Guided research   | 10 minutes        | 15 minutes |
-
+- Please prepare for at most 15 mins, plus 5 mins for Q&A.
 
