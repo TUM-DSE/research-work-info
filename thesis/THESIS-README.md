@@ -7,7 +7,7 @@ Please have these guidelines in mind when writing your thesis or report.
 
 - **BSc/MSc thesis template**: Please use the following template for writing your thesis: [Thesis template](https://latex.tum.de/templates/5e18420186d30de7011c9ea2) 
 
-- **Guided research/IDP template**: - Please use the following template for writing your report: [Template](https://www.usenix.org/conferences/author-resources/paper-templates) 
+- **Guided research/IDP template**: Please use the following template for writing your report: [Template](https://www.usenix.org/conferences/author-resources/paper-templates) 
 
 
 
