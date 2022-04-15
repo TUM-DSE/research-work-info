@@ -21,7 +21,7 @@ Your thesis submission will proceed in the following four stages.
     * Final pdf to Prof. Bhatotia.
     * Final pdf to advisor.
 
-- **Stage 3:** Schedule your final presentation talk by consulting your advisor (see [presentation instructions](talk/TALK-README.md).
+- **Stage 3:** Schedule and organize your final presentation talk in consultation with your advisor (see [presentation instructions](talk/TALK-README.md)).
 
 - **Stage 4:** After your final presentation, please add the following PDFs to [the chair's theses repository](https://github.com/TUM-DSE/theses-collection)
 by submitting a pull request.
