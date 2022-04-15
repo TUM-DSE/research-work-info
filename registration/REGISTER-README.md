@@ -10,10 +10,10 @@
 
 - **Duration:** After the registration, the standard stipulated time limit for your thesis work is as follows:
 
-|                    | Duration |
-|-------------------|------------|
-| Bachelor's thesis | 4 months  |
-| Master's thesis   | 6 months |
+        |                   | Duration |
+        |-------------------|----------|
+        | Bachelor's thesis | 4 months |
+        | Master's thesis   | 6 months |
 
 ## Important guidelines
 
