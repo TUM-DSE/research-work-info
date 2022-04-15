@@ -13,20 +13,18 @@ Please have these guidelines in mind when preparing your presentation.
 
 - Please do not use more than 10-15 slides. 
 
-- See [an example presentation](https://dse.in.tum.de/wp-content/uploads/2022/04/SafePM_eurosys22_presentation.pdf).
-
-- The final talk may be structured like this:
- 1.  Title: Project name, student name, advisor name
- 2.  Motivation
- 3.  Research gap
- 4.  Problem statement
- 5.  System and design goals
- 6.  Outline
- 7.  Overview
- 8.  Design 
- 9.  Implementation
- 10. Evaluation
- 11. Conclusion
+- The final talk may be structured like this (See [an example presentation](https://dse.in.tum.de/wp-content/uploads/2022/04/SafePM_eurosys22_presentation.pdf)):
+    1.  Title: Project name, student name, advisor name
+    2.  Motivation
+    3.  Research gap
+    4.  Problem statement
+    5.  System and design goals
+    6.  Outline
+    7.  Overview
+    8.  Design 
+    9.  Implementation
+    10. Evaluation
+    11. Conclusion
 
 
 
