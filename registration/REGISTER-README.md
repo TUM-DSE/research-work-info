@@ -2,11 +2,11 @@
 
 - Thesis registration is allowed on the 15th of every month.
 
-- The student must fill a registration form: [Registration](https://www.in.tum.de/en/current-students/administrative-matters/thesis-guidelines-and-topics/) 
+- The student must fill a [registration form](https://www.in.tum.de/en/current-students/administrative-matters/thesis-guidelines-and-topics/) 
 
-        -- [BSc thesis registration form](https://www.in.tum.de/fileadmin/w00bws/in/2.Fur_Studierende/1.Bachelor_Studiengaenge/1.Informatik/4.Abschlussarbeit/anm_ba_info_V01.pdf)
+- [BSc thesis registration form](https://www.in.tum.de/fileadmin/w00bws/in/2.Fur_Studierende/1.Bachelor_Studiengaenge/1.Informatik/4.Abschlussarbeit/anm_ba_info_V01.pdf)
         
-        -- [MSc thesis registration form](https://www.in.tum.de/fileadmin/w00bws/in/2.Fur_Studierende/2.Master_Studiengaenge/1.Informatik/6.Abschlussarbeit/masterthesis_Anmeldung_Info_EN_220113.pdf)
+- [MSc thesis registration form](https://www.in.tum.de/fileadmin/w00bws/in/2.Fur_Studierende/2.Master_Studiengaenge/1.Informatik/6.Abschlussarbeit/masterthesis_Anmeldung_Info_EN_220113.pdf)
 
 - The filled form must be submitted to the chair secretary a week before the deadline. 
 
