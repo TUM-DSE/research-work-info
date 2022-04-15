@@ -10,7 +10,7 @@
 
 - Please read carefully the department guidelines: [Extension of the submission deadline](https://www.in.tum.de/en/current-students/administrative-matters/thesis-guidelines-and-topics/)
 
-## Extension forms: 
+## Extension forms
 
 The department provides two types of extensions forms:
 
