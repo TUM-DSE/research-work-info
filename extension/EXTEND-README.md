@@ -1,6 +1,6 @@
 # Extension
 
-- **Purpose:**  If a student cannot finish their thesis work within the stipulated time limit for some unplanned reasons, they should fill an extension form (see below).  
+- **Purpose:**  If a student cannot finish their thesis work within the stipulated time limit for some unplanned reasons, they should fill an extension form (see below).   The student should consult their advisor and Prof. Bhatotia before seeking an extension.
 
 -  **Important:** As per the department guidelines (see below), it is imperative that the student must properly explain their extension request reason in detail (at least half a page).
 
