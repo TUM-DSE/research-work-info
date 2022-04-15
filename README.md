@@ -29,7 +29,7 @@ by submitting a pull request.
     - Presentation [PDF]
     
 
-## Grading
+## Assesment 
 
 The overall grade is based on the following three dimensions:
 
@@ -37,6 +37,12 @@ The overall grade is based on the following three dimensions:
 * Thesis write-up
 * Thesis presentation
 
+
+The supervisor must use the following form for the final assesment and send the assesment report along with their CV to Prof. Bhatotia. 
+
+* [Asssesment form](https://docs.google.com/document/d/1Isy1vj3w-B3UzykZMwliBM8m0YdpLMrTRgCtAUVF0so/edit?usp=sharing) 
+
+## Grading
 For grading, the standard TUM grading scheme will be used, i.e., 1.0, 1.3, 1.7,
 2.0, ..., 5.0.
 
