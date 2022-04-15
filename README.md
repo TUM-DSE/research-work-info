@@ -41,7 +41,7 @@ by submitting a pull request.
     * Thesis presentation
 
 
-- **Submission:** The advisor must use the following form for the final assesment. Please send the form *along with their own CV* to the [chair secretary](https://dse.in.tum.de/contact/).
+- **Assessment submission:** The advisor must use the following form for the final assesment. Please send the form *along with their own CV* to the [chair secretary](https://dse.in.tum.de/contact/).
 
     * [Assessment form](https://docs.google.com/document/d/1Isy1vj3w-B3UzykZMwliBM8m0YdpLMrTRgCtAUVF0so/edit?usp=sharing) 
     * **Note for Advisor's CV**: We require CVs only for the external advisors. The staff members at the chair do not need to submit their CV.
