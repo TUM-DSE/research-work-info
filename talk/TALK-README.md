@@ -31,3 +31,10 @@ The final talk may be structured like this:
 
 - Please prepare for at most 15 mins, plus 5 mins for Q&A.
 
+
+## Resources
+- [Markus Puschel: How to give good technical presentations](https://people.inf.ethz.ch/markusp/teaching/guides/guide-presentations-new.pdf)
+
+- [Simon Peyton Jones: How to give a great research talk](https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/) 
+
+
