@@ -6,7 +6,7 @@
 
     - Choose the appropriate form based on your study program.
 
-- **Form submission:** The filled form must be submitted to the chair secretary **at least a week** before the deadline. 
+- **Form submission:** The filled form must be submitted to the chair secretary **at least two weeks** before the deadline. 
 
 
 ## Important guidelines
