@@ -11,7 +11,7 @@ the thesis.
 
 ## Submission
 
-Your thesis submission will proceed in the following four stages.
+Your thesis submission will proceed in the following four stages:
 
 -  **Stage 1:** At least two weeks before the thesis submission deadline (15th of the final month), please send a PDF copy of your thesis to your advisor and Prof. Bhatotia for their final feedback and approval.
 
@@ -40,5 +40,18 @@ The overall grade is based on the following three dimensions:
 For grading, the standard TUM grading scheme will be used, i.e., 1.0, 1.3, 1.7,
 2.0, ..., 5.0.
 
-
-
+| Grade score | Grade title |
+|-------------------|------------|
+| 1.0  | Very good |
+| 1.3  |  |
+| 1.7  |  good |
+| 2.0  |   |
+| 2.3  |   |
+| 2.7  | Statisfactory |
+| 3.0  | |
+| 3.3  | |
+| 3.7  | Sufficient |
+| 4.0  | |
+| 4.3  | Fail |
+| 4.7  | |
+| 5.0  | |
