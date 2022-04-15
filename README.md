@@ -34,7 +34,7 @@ by submitting a pull request.
 
 ## Assessment 
 
-- **Criteria:**  The overall grade is based on the following three dimensions:
+- **Assessment criteria:**  The overall grade is based on the following three dimensions:
 
     * Thesis work
     * Thesis write-up
