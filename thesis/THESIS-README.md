@@ -1,4 +1,4 @@
-# Thesis guidelines
+# Thesis/Report guidelines
 
 Please have these guidelines in mind when writing your thesis or report.
 
