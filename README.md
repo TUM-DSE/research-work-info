@@ -32,14 +32,14 @@ by submitting a pull request.
 
 ## Assessment 
 
-* **Criteria:**  The overall grade is based on the following three dimensions:
+**Criteria:**  The overall grade is based on the following three dimensions:
 
 * Thesis work
 * Thesis write-up
 * Thesis presentation
 
 
-* **Submission:** The advisor must use the following form for the final assesment and send the report *along with their own CV* to the chair secretary.
+**Submission:** The advisor must use the following form for the final assesment and send the report *along with their own CV* to the chair secretary.
 
  * [Assessment form](https://docs.google.com/document/d/1Isy1vj3w-B3UzykZMwliBM8m0YdpLMrTRgCtAUVF0so/edit?usp=sharing) 
 
