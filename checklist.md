@@ -6,9 +6,11 @@ All the steps needed to complete your thesis.
 ## Towards registration
 
 * [ ] I read the guidelines for the following:
+    - [registration](registration/REGISTER-README.md)
     - [thesis](thesis/THESIS-README.md)
     - [talk](talk/TALK-README.md)
-    - [registration](registration/REGISTER-README.md)
+    - [extension](extension/EXTEND-README.md)
+    
 
 4 weeks before registration:
 * [ ] I familiarized myself with the thesis topic.
