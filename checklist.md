@@ -50,7 +50,6 @@ After the final approval from the advisor and Professor, submit the thesis:
 * [ ] One printout delivered to Prüfungsamt
 * [ ] One pdf to Prof. Bhatotia
 * [ ] One pdf advisor
-* [ ] One pdf the chair secretary
 
 ## Stage 3: Final presentation
 
