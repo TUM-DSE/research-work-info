@@ -11,9 +11,20 @@ the thesis.
 
 ## Submission
 
-- After your final presentation, please add the following PDFs to [the chair's theses repository](https://github.com/TUM-DSE/theses-collection)
-by submitting a pull request.
+Your thesis submission will proceed in the following four stages.
 
+-  **Stage 1:** At least two weeks before the thesis submission deadline, please send a PDF copy of your thesis to your advisor and Prof. Bhatotia for their final feedback and approval.
+
+- **Stage 2:** After approval from your advisor and Prof. Bhatotia, please submit the following:
+
+    * One printout delivered to Prüfungsamt.
+    * Final pdf to Prof. Bhatotia.
+    * Final pdf to advisor.
+
+- **Stage 3:** Schedule your final presentation talk by consulting your advisor (see [presentation instructions](talk/TALK-README.md).
+
+- **Stage 4:** After your final presentation, please add the following PDFs to [the chair's theses repository](https://github.com/TUM-DSE/theses-collection)
+by submitting a pull request.
     - Thesis [PDF]
     - Presentation [PDF]
     
