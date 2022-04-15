@@ -5,7 +5,10 @@ All the steps needed to complete your thesis.
 
 ## Towards registration
 
-* [ ] I read the chair's for thesis and talk.
+* [ ] I read the guidelines for the following:
+    - [thesis](thesis/THESIS-README.md)
+    - [talk](talk/TALK-README.md)
+    - [registration](registration/REGISTER-README.md)
 
 4 weeks before registration:
 * [ ] I familiarized myself with the thesis topic.
