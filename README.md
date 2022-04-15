@@ -49,7 +49,7 @@ For grading, the standard TUM grading scheme will be used. Please see the table 
 |-------------------|------------|
 | 1.0  | Very good |
 | 1.3  |  |
-| 1.7  |  good |
+| 1.7  |  Good |
 | 2.0  |   |
 | 2.3  |   |
 | 2.7  | Statisfactory |
