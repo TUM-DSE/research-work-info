@@ -2,7 +2,6 @@
 
 All the steps needed to complete your thesis.
 
-
 ## Towards registration
 
 * [ ] I read the guidelines for the following:
@@ -11,7 +10,6 @@ All the steps needed to complete your thesis.
     - [talk](talk/TALK-README.md)
     - [extension](extension/EXTEND-README.md)
     
-
 6-8 weeks before registration:
 * [ ] I familiarized myself with the thesis topic
 * [ ] I read the related work about the thesis topic
@@ -21,12 +19,9 @@ All the steps needed to complete your thesis.
 2 weeks before registration:
 * [ ] Filled in the registration form, returned to secretary of the chair
 
-
-
 ## Registration
 
 * [ ] Thesis registered towards the 15th of a month.
-
 
 ## Intermediate presentation
 
@@ -65,7 +60,7 @@ After the final approval from the advisor and Professor, submit the thesis:
 
 ## Final presentation
 
-* [ ] Scheduled the final presentation with your advissor
+* [ ] Scheduled the final presentation with your advisor
 * [ ] Final Talk scheduled. Date: yyyy-mm-dd hh:mm
 
 About 1-2 weeks before final talk:
@@ -77,9 +72,14 @@ Final talk:
 
 
 ## Archive your thesis and presentation
-* [ ] Thesis [PDF] added to the chair's theses repository
-* [ ] Presentation slides [PDF] added to the chair's theses repository
+
+Archive the following  to the chair's theses repository
+* [ ] Thesis [PDF]
+* [ ] Presentation slides [PDF]
 
 
 ## Assessment
-* [ ] Request the advisor to submit the assessment form and CV to the chair secretary
+
+Request the advisor to submit the following to the chair secretary
+* [ ] Assessment form
+* [ ] Advisor's CV
