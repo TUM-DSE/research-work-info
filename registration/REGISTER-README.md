@@ -2,7 +2,7 @@
 
 - **Deadline:** 
     -  **Thesis registration** is allowed on the 15th of every month.
-    -  **Guided Research/IDP registration** is allowed at the beginning of each semester.
+    -  **Guided Research/IDP registration** is allowed *only* at the beginning of each semester.
 
 - **Registration forms:**  
     - **Thesis form:** The student must fill a [registration form](https://www.in.tum.de/en/current-students/administrative-matters/thesis-guidelines-and-topics/):  Choose the appropriate form based on your study program.
@@ -20,10 +20,10 @@
 
 ## Important guidelines
 
-- Given that we have a strict time limit to accomplish a thesis (6 months for MSc, 4 months for BSc, 1 semester for Guided Research/IDP), please ensure that you clearly understand the thesis problem statement and scope before registering your thesis.
+- Given that we have a strict time limit to accomplish your research work (6 months for MSc thesis, 4 months for BSc thesis, 1 semester for Guided Research/IDP), please ensure that you clearly understand the problem statement and scope before registering.
 
 
-- In general, before registering your thesis, it is a good practice to closely work with your thesis advisor. This would help you to get familiar with the related work, problem statement, and scope of your thesis work. Please also briefly bootstrap the work by implementing a "strawman" design. This will give you a very good idea and confidence going forward with your thesis work. 
+- In general, before initiating the registeration process, it is a good practice to closely work with your advisor. This would help you to get familiar with the related work, problem statement, and scope of your work. Please also briefly bootstrap the work by implementing a "strawman" design. This will give you a very good idea and confidence going forward. 
 
 
 
