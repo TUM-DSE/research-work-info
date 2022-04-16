@@ -1,4 +1,4 @@
-# My research work at [DSE](https://dse.in.tum.de/)
+# Research work at [DSE](https://dse.in.tum.de/)
 
 Fork this repository and adapt it to your needs. You should find everything here
 that you will need to successfully complete your research work at our [chair](https://dse.in.tum.de/theses/):  
@@ -7,7 +7,7 @@ that you will need to successfully complete your research work at our [chair](ht
    * Guided research
    * Interdisciplinary Project (IDP)
 
-**Note:** As part of BSc/MSc thesis, you need to submit a thesis. Whereas, as part of Guided research/IDP, you need to submit a report.
+**Note:** As part of your BSc/MSc thesis, you will need to submit a *thesis* to the department. Whereas, as part of Guided research/IDP, you will need to submit a *report* to the chair.
 
 ## Where to start
 
