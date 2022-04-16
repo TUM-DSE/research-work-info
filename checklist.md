@@ -38,7 +38,7 @@ All the steps needed to complete your research work at [DSE](https://dse.in.tum.
 ## Towards thesis/report submission
 
 2 months before submission:
-* [ ] I checked the resources on how to write a thesis/report.
+* [ ] I checked the resources on how to write a [thesis/report](thesis-report/THESIS-REPORT-README.md).
 * [ ] Thesis/report structure prepared
 * [ ] ... and discussed with advisors
 * [ ] Checked if working title is still suitable
