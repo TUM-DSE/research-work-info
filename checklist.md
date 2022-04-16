@@ -15,7 +15,7 @@ All the steps needed to complete your research work at [DSE](https://dse.in.tum.
 * [ ] I read the related work about the research topic
 * [ ] I proposed a thesis timeline with concrete steps to my advisors
 * [ ] I started with the "strawman" design and implementation
-* [ ] Ask your advisor to enroll you to our research slack workspace (*ls1-tum.slack.com*), and join *#ls1-students* channel
+* [ ] Ask your advisor to enroll you to our slack workspace (*ls1-tum.slack.com*), and join *#ls1-students* channel
 
 
 2 weeks before registration:
