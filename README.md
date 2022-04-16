@@ -3,10 +3,9 @@
 Fork this repository and adapt it to your needs. You should find everything here
 that you will need to successfully complete your research work at our [chair](https://dse.in.tum.de/theses/):  
 
-   * BSc thesis
-   * MSc thesis
+   * BSc/MSc thesis
    * Guided research
-   * Interdisciplinary Project(IDP)
+   * Interdisciplinary Project (IDP)
 
 ## Where to start
 
