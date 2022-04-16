@@ -10,7 +10,7 @@
  
 - **Form submission:** The filled form must be submitted to the chair secretary **at least two weeks** before the deadline. 
 
-- **Duration:** After the registration process, the clock starts! The standard stipulated time limit for your thesis work is as follows:
+- **Duration:** After the registration process, the clock starts! The standard stipulated time limit for your research work is as follows:
 
         |                    | Duration |
         |--------------------|----------|
