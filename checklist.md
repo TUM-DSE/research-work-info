@@ -21,7 +21,7 @@ All the steps needed to complete your research work at [DSE](https://dse.in.tum.
 
 ## Registration
 
-* [ ] Registered (The thesis registration deadline is the 15th of a month, and the Guided Research/IDP can only be registered at the beginning of a semester.)
+* [ ] Registered (The thesis registration deadline is the 15th of every month, whereas the Guided Research/IDP can only be registered at the beginning of a semester.)
 
 
 ## Towards thesis/report submission
