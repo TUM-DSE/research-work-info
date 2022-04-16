@@ -15,8 +15,7 @@ Take a look at the [checklist](checklist.md) to find out what you have to do for
 your research work. Overall, you will go through the following phases:
   * Pre-registration 
   * Registration
-  * Intermediate progress update
-  * Thesis/report preparation
+  * Intermediate update
   * [Submission](README.md#Submission)
   
 ## Submission
