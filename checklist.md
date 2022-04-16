@@ -15,6 +15,7 @@ All the steps needed to complete your research work at [DSE](https://dse.in.tum.
 * [ ] I read the related work about the research topic
 * [ ] I proposed a thesis timeline with concrete steps to my advisors
 * [ ] I started with the "strawman" design and implementation
+* [ ] I presented the problem statement, related work, and the "strawman" design to my advisor.
 
 2 weeks before registration:
 * [ ] Filled in the registration form, returned to secretary of the chair
