@@ -36,9 +36,10 @@ Your submission will proceed in the following five stages:
 
 ## Assessment 
 
-- **Assessment criteria:**  The overall grade is based on the following three dimensions:
+- **Assessment criteria:**  The overall grade is based on the following four dimensions:
 
     * Research work
+    * Design and implementation
     * Thesis/Report write-up
     * Presentation
 
