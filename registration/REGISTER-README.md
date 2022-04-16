@@ -5,7 +5,7 @@
     -  **Guided Research/IDP registration** is allowed *only* at the beginning of each semester.
 
 - **Registration forms:**  
-    - **Thesis form:** The student must fill a [registration form](https://www.in.tum.de/en/current-students/administrative-matters/thesis-guidelines-and-topics/):  Choose the appropriate form based on your study program.
+    - **Thesis form:** The student must fill a [registration form](https://www.in.tum.de/en/current-students/administrative-matters/thesis-guidelines-and-topics/) based on their study program.
     - **Guided research/IDP form**:The student must fill the [registration form](https://www.in.tum.de/en/current-students/masters-programs/informatics/guided-research/).
  
 - **Form submission:** The filled form must be submitted to the chair secretary **at least two weeks** before the deadline. 
