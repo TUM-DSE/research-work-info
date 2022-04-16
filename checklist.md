@@ -6,7 +6,7 @@ All the steps needed to complete your research work at [DSE](https://dse.in.tum.
 
 * [ ] I read the guidelines for the following:
     - [registration](registration/REGISTER-README.md)
-    - [thesis/report](thesis/THESIS-README.md)
+    - [thesis/report](thesis-report/THESIS-REPORT-README.md)
     - [talk](talk/TALK-README.md)
     - [extension](extension/EXTEND-README.md)
     
