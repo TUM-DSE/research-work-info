@@ -27,7 +27,8 @@ All the steps needed to complete your research work at [DSE](https://dse.in.tum.
 ## Intermediate Presentation
 
 * [ ] Scheduled an intermediate presentation with my advisor (1 month after the official start)
-* [ ] I presented the problem statement, related work, and the "strawman" design to my advisor.
+* [ ] Prepare the intermediate talk covering  the problem statement, related work, and the "strawman" design (see [Talk instructions](talk/TALK-README.md))
+* [ ] I gave the intermediate talk to my advisor
 
 
 ## Towards thesis/report submission
