@@ -20,7 +20,7 @@
 
 ## Important guidelines
 
-- Given that we have a strict time limit to accomplish your research work (6 months for MSc thesis, 4 months for BSc thesis, 1 semester for Guided Research/IDP), please ensure that you clearly understand the problem statement and scope before registering.
+- Given that we have a strict time limit to accomplish your research work (6 months for MSc thesis, 4 months for BSc thesis, 1 semester for Guided Research/IDP), please ensure that you clearly understand the problem statement and scope before initiating the registeration process.
 
 
 - In general, before initiating the registeration process, it is a good practice to closely work with your advisor. This would help you to get familiar with the related work, problem statement, and scope of your work. Please also briefly bootstrap the work by implementing a "strawman" design. This will give you a very good idea and confidence going forward. 
