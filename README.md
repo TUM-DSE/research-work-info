@@ -12,8 +12,13 @@ that you will need to successfully complete your research work at our [chair](ht
 ## Where to start
 
 Take a look at the [checklist](checklist.md) to find out what you have to do for
-your research work.
-
+your research work. Overall, you will go through the following phases:
+  * Pre-registration 
+  * Registration
+  * Intermediate progress update
+  * Thesis/report preparation
+  * #Submission
+  
 ## Submission
 
 Your submission will proceed in the following five stages:
