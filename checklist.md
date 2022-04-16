@@ -19,7 +19,7 @@ All the steps needed to complete your research work at [DSE](https://dse.in.tum.
 
 
 2 weeks before registration:
-* [ ] Filled in the registration form, returned to secretary of the chair
+* [ ] Filled in the [registration form](registration/REGISTER-README.md), returned to secretary of the chair
 
 ## Registration
 
