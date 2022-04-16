@@ -1,6 +1,6 @@
 # Thesis/Report guidelines
 
-Please have these guidelines in mind when writing your thesis or report.
+Please have these guidelines in mind when writing your BSc/MSc thesis or Guided research/IDP report.
 
 
 ## Template
