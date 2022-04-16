@@ -15,7 +15,7 @@ All the steps needed to complete your research work at [DSE](https://dse.in.tum.
 * [ ] I read the related work about the research topic
 * [ ] I proposed a thesis timeline with concrete steps to my advisors
 * [ ] I started with the "strawman" design and implementation
-* [ ] I presented the problem statement, related work, and the "strawman" design to my advisor.
+
 
 2 weeks before registration:
 * [ ] Filled in the registration form, returned to secretary of the chair
@@ -23,6 +23,11 @@ All the steps needed to complete your research work at [DSE](https://dse.in.tum.
 ## Registration
 
 * [ ] Registered (The thesis registration deadline is the 15th of every month, whereas the Guided Research/IDP can only be registered at the beginning of a semester.)
+
+## Intermediate Presentation
+
+* [ ] Scheduled an intermediate presentation with my advisor (1 month after the official start)
+* [ ] I presented the problem statement, related work, and the "strawman" design to my advisor.
 
 
 ## Towards thesis/report submission
@@ -47,7 +52,7 @@ All the steps needed to complete your research work at [DSE](https://dse.in.tum.
 
 ## Stage 2: Official submission
 
-After the final approval from the advisor and Professor, submit the thesis/report:
+After the final approval, submit the thesis/report:
 * [ ] One thesis printout delivered to Prüfungsamt (**ONLY** required for BSc/MSc thesis)
 * [ ] One pdf to Prof. Bhatotia
 * [ ] One pdf advisor
