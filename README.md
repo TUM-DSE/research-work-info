@@ -7,6 +7,8 @@ that you will need to successfully complete your research work at our [chair](ht
    * Guided research
    * Interdisciplinary Project (IDP)
 
+**Note:** As part of BSc/MSc thesis, you need to submit a thesis. Whereas, as part of Guided research/IDP, you need to submit a report.
+
 ## Where to start
 
 Take a look at the [checklist](checklist.md) to find out what you have to do for
