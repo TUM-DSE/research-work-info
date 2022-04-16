@@ -85,4 +85,4 @@ Archive the following  to the chair's theses/report repository
 ## Stage 5: Assessment
 
 Request the advisor to submit the following to the chair secretary
-* [ ] Assessment requested
+* [ ] [Assessment requested](README.md#Assessment)
