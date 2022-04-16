@@ -1,14 +1,14 @@
 # My research work at the [Chair of Decentralized Systems Engineering (DSE)](https://dse.in.tum.de/)
 
 Fork this repository and adapt it to your needs. You should find everything here
-that you will need to successfully complete your research work (BSc, MSc, guided research, IDPs) at our [chair](https://dse.in.tum.de/theses/).
+that you will need to successfully complete your research work at our [chair](https://dse.in.tum.de/theses/):  BSc thesis, MSc thesis, Guided research, Interdisciplinary Project(IDP).
 
 
 
 ## Where to start
 
 Take a look at the [checklist](checklist.md) to find out what you have to do for
-the thesis.
+your research work.
 
 ## Submission
 
@@ -18,14 +18,13 @@ Your submission will proceed in the following five stages:
 
 - **Stage 2:** After their final approval, please submit the following:
 
-    * **[Required ONLY for BSc/MSc thesis work]**: One printout of the final thesis delivered to Prüfungsamt.
+    * **[Required ONLY for BSc/MSc thesis work]**: One printout of the final BSc/MSc thesis delivered to Prüfungsamt.
     * Final pdf to Prof. Bhatotia.
     * Final pdf to advisor.
 
 - **Stage 3:** Please schedule and organize your final presentation talk in consultation with your advisor (see [presentation instructions](talk/TALK-README.md)).
 
-- **Stage 4:** After your final presentation, please add the following PDFs to [the chair's theses repository](https://github.com/TUM-DSE/theses-collection)
-by submitting a pull request. 
+- **Stage 4:** After your final presentation, please add the following PDFs to [the chair's theses repository](https://github.com/TUM-DSE/theses-collection) by submitting a pull request. 
     - Thesis/Report [PDF]
     - Presentation [PDF]
 
