@@ -60,7 +60,7 @@ All the steps needed to complete your research work at [DSE](https://dse.in.tum.
 After the final approval, submit the thesis/report:
 * [ ] One thesis printout delivered to Prüfungsamt (**ONLY** required for BSc/MSc thesis)
 * [ ] One pdf to Prof. Bhatotia
-* [ ] One pdf advisor
+* [ ] One pdf to advisor
 
 ## Stage 3: Final presentation
 
