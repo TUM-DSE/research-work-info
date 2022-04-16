@@ -40,7 +40,7 @@ Please have these guidelines in mind when preparing your presentation.
 
 ## Schedule
 
-- Please contact your advisor to schedule the final presentation *after submitting your thesis*.
+- Please contact your advisor to schedule the final presentation *after submitting your thesis/report*.
 
 
 ## Resources
