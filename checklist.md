@@ -1,6 +1,6 @@
 # Checklist
 
-All the steps needed to complete your thesis.
+All the steps needed to complete your research work at [DSE](https://dse.in.tum.de/).
 
 ## Towards registration
 
