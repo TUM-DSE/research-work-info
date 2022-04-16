@@ -7,7 +7,7 @@ that you will need to successfully complete your research work at our [chair](ht
    * Guided research
    * Interdisciplinary Project (IDP)
 
-**Note:** As part of your BSc/MSc thesis, you will need to submit a *thesis* to the chair and the department. Whereas, as part of Guided research/IDP, you will need to submit a *report* only to the chair.
+**Note:** As part of your BSc/MSc thesis, you will need to submit a *thesis* to the chair and the department (Prüfungsamt). Whereas, as part of Guided research/IDP, you will need to submit a *report* only to the chair.
 
 ## Where to start
 
