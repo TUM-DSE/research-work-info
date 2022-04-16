@@ -1,9 +1,12 @@
 # My research work at the [Chair of Decentralized Systems Engineering (DSE)](https://dse.in.tum.de/)
 
 Fork this repository and adapt it to your needs. You should find everything here
-that you will need to successfully complete your research work at our [chair](https://dse.in.tum.de/theses/):  BSc thesis, MSc thesis, Guided research, Interdisciplinary Project(IDP).
+that you will need to successfully complete your research work at our [chair](https://dse.in.tum.de/theses/):  
 
-
+   * BSc thesis
+   * MSc thesis
+   * Guided research
+   * Interdisciplinary Project(IDP)
 
 ## Where to start
 
