@@ -7,14 +7,14 @@ Please have these guidelines in mind when writing your thesis or report.
 
 - **BSc/MSc thesis template**: Please use the following template for writing your thesis: [Thesis template](https://latex.tum.de/templates/5e18420186d30de7011c9ea2) 
 
-- **Guided research/IDP template**: Please use the following template for writing your report: [Template](https://www.usenix.org/conferences/author-resources/paper-templates) 
+- **Guided research/IDP report template**: Please use the following template for writing your report: [Template](https://www.usenix.org/conferences/author-resources/paper-templates) 
 
 
 
 ## Structure for the write-up
 
-The write-up may be structured around the following chapters or sections (please adapt as per
-your content):
+The write-up may be structured around the following (thesis) chapters or (report) sections. Please adapt as per
+your content:
 
 1.  Abstract 
     * A short summary of the problem statement, key ideas, tangible contributions
