@@ -1,6 +1,6 @@
 # Registration
 
-- **Deadline:** 
+- **Deadlines:** 
     -  **Thesis registration** is allowed on the 15th of every month.
     -  **Guided Research/IDP registration** is allowed *only* at the beginning of each semester.
 
