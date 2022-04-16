@@ -6,13 +6,13 @@ All the steps needed to complete your thesis.
 
 * [ ] I read the guidelines for the following:
     - [registration](registration/REGISTER-README.md)
-    - [thesis](thesis/THESIS-README.md)
+    - [thesis/report](thesis/THESIS-README.md)
     - [talk](talk/TALK-README.md)
     - [extension](extension/EXTEND-README.md)
     
 4-8 weeks before registration:
-* [ ] I familiarized myself with the thesis topic
-* [ ] I read the related work about the thesis topic
+* [ ] I familiarized myself with the research topic
+* [ ] I read the related work about the research topic
 * [ ] I proposed a thesis timeline with concrete steps to my advisors
 * [ ] I started with the "strawman" design and implementation
 
@@ -21,33 +21,33 @@ All the steps needed to complete your thesis.
 
 ## Registration
 
-* [ ] Thesis registered towards the 15th of a month.
+* [ ] Registered (The thesis registration deadline is the 15th of a month, and the Guided Research/IDP can only be registered at the beginning of a semester.)
 
 
-## Towards thesis submission
+## Towards thesis/report submission
 
 2 months before submission:
-* [ ] I checked the resources on how to write a thesis.
-* [ ] Thesis structure prepared
+* [ ] I checked the resources on how to write a thesis/report.
+* [ ] Thesis/report structure prepared
 * [ ] ... and discussed with advisors
 * [ ] Checked if working title is still suitable
 * [ ] ... if not: application for changing the title filed
 
 
 ###################################################################
-# Thesis submission process starts here!
+# The submission process starts here!
 
-## Stage 1: Thesis final approval
+## Stage 1: Thesis/report final approval
 
-2 weeks before the submission deadline get the final approval to submit the thesis:
-* [ ] Send thesis draft to the advisor
-* [ ] Send thesis draft to Prof. Bhatotia
+2 weeks before the submission deadline get the final approval to submit the thesis/report:
+* [ ] Send thesis/report draft to the advisor
+* [ ] Send thesis/report draft to Prof. Bhatotia
 
 
 ## Stage 2: Official submission
 
-After the final approval from the advisor and Professor, submit the thesis:
-* [ ] One thesis printout delivered to Prüfungsamt
+After the final approval from the advisor and Professor, submit the thesis/report:
+* [ ] One thesis printout delivered to Prüfungsamt (**ONLY** required for BSc/MSc thesis)
 * [ ] One pdf to Prof. Bhatotia
 * [ ] One pdf advisor
 
@@ -64,9 +64,9 @@ Final talk:
 * [ ] Final presentation given to the advisors
 
 
-## Stage 4: Archive your thesis and presentation
+## Stage 4: Archive your thesis/report and presentation
 
-Archive the following  to the chair's theses repository
+Archive the following  to the chair's theses/report repository
 * [ ] Thesis/Report [PDF]
 * [ ] Presentation slides [PDF]
 
