@@ -23,21 +23,21 @@ your research work. Overall, you will go through the following phases:
 
 Your submission will proceed in the following five stages:
 
--  **Stage 1:** At least two weeks before the submission deadline, please send a PDF copy of your thesis/report to your advisor and Prof. Bhatotia for their final feedback and approval.
+-  **Stage 1 (Approval):** At least two weeks before the submission deadline, please send a PDF copy of your thesis/report to your advisor and Prof. Bhatotia for their final feedback and approval.
 
-- **Stage 2:** After their final approval, please submit the following:
+- **Stage 2 (Formal submission):** After their final approval, please submit the following:
 
     * **[Required ONLY for BSc/MSc thesis work]**: One printout of the final BSc/MSc thesis delivered to Prüfungsamt.
     * Final pdf to Prof. Bhatotia.
     * Final pdf to advisor.
 
-- **Stage 3:** Please schedule and organize your final presentation talk in consultation with your advisor (see [presentation instructions](talk/TALK-README.md)).
+- **Stage 3 (Final presentation):** Please schedule and organize your final presentation talk in consultation with your advisor (see [presentation instructions](talk/TALK-README.md)).
 
-- **Stage 4:** After your final presentation, please add the following PDFs to [the chair's theses repository](https://github.com/TUM-DSE/theses-collection) by submitting a pull request. 
+- **Stage 4 (Archive documents):** After your final presentation, please add the following PDFs to [the chair's theses repository](https://github.com/TUM-DSE/theses-collection) by submitting a pull request. 
     - Thesis/Report [PDF]
     - Presentation [PDF]
 
-- **Stage 5:**  After the final upload of your thesis/report and presentation PDFs, please contact your advisor to submit their final assessment form (see below) to the chair secretary. 
+- **Stage 5 (Assessment):**  After the final upload of your thesis/report and presentation PDFs, please contact your advisor to submit their final assessment form (see below) to the chair secretary. 
 
 ## Assessment 
 
