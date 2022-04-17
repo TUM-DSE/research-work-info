@@ -23,7 +23,7 @@ your research work. Overall, you will go through the following phases:
 
 Your submission will proceed in the following five stages:
 
--  **Stage 1 (Approval):** At least two weeks before the submission deadline, please send a PDF copy of your thesis/report to your advisor and Prof. Bhatotia for their final feedback and approval.
+-  **Stage 1 (Approval):** *At least two weeks* before the submission deadline, please send a PDF copy of your thesis/report to your advisor and Prof. Bhatotia for their final feedback and approval.
 
 - **Stage 2 (Formal submission):** After their final approval, please submit the following:
 
