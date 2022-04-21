@@ -83,7 +83,7 @@ Final talk:
 
 ## Stage 4: Archive your thesis/report and presentation
 
-Archive the following to the [chair's theses/report repository](https://github.com/TUM-DSE/theses-collection):
+Archive the following to the [chair's archive repository](https://github.com/TUM-DSE/research-work-archive):
 * [ ] Thesis/Report [PDF]
 * [ ] Presentation slides [PDF]
 
