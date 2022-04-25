@@ -12,11 +12,11 @@
 
 - **Duration:** After the registration process, the clock starts! The standard stipulated time limit for your research work is as follows:
 
-        |                    | Duration |
-        |--------------------|----------|
-        | Bachelor's thesis  | 4 months |
-        | Master's thesis    | 6 months |
-        | Guided research/IDP| 1 semester |
+|                    | Duration   |
+|--------------------|------------|
+| Bachelor's thesis  | 4 months   |
+| Master's thesis    | 6 months   |
+| Guided research/IDP| 1 semester |
 
 ## Important guidelines
 
