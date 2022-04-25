@@ -32,7 +32,7 @@ All the steps needed to complete your research work at [DSE](https://dse.in.tum.
 ## Intermediate presentation
 
 1 month after the official start:
-* [ ] Scheduled an intermediate presentation with my advisors
+* [ ] Scheduled an intermediate presentation with my advisors. Date: yyyy-mm-dd hh:mm
 * [ ] Prepared the intermediate talk covering the problem statement, related
       work, and a "strawman" design (see [Talk instructions](talk/README.md))
 * [ ] I gave the intermediate talk to my advisors
@@ -65,8 +65,7 @@ After the final approval, submit the thesis/report:
 
 ## Final presentation
 
-* [ ] Scheduled the final presentation with my advisors
-* [ ] Final Talk scheduled. Date: yyyy-mm-dd hh:mm
+* [ ] Scheduled the final presentation with my advisors. Date: yyyy-mm-dd hh:mm
 
 About 1-2 weeks before final talk:
 * [ ] Beta version of slides ready
