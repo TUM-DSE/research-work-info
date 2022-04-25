@@ -18,7 +18,7 @@ for your research work. Overall, you will go through these phases:
 * Registration
 * Intermediate update
 * Final preparation
-* Submission
+* [Submission](README.md#Submission)
   
 ## Assessment 
 
