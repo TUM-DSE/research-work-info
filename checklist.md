@@ -41,11 +41,11 @@ All the steps needed to complete your research work at [DSE](https://dse.in.tum.
 ## Towards submission
 
 2 months before submission:
-* [ ] I checked the resources on how to write a
+* [ ] **Thesis/Report**: I checked the resources on how to write a
       [thesis/report](thesis-report/README.md).
-* [ ] Thesis/report structure prepared
-* [ ] ... and discussed with advisors
-* [ ] Checked if working title is still suitable
+        * [ ] Thesis/report structure prepared
+        * [ ] ... and discussed with advisors
+* [ ] **Thesis title change**: Checked if working title is still suitable
 * [ ] ... *If not*, please apply to **change the title**: The student should send the [filled form](https://docs.google.com/document/d/1RAxqMniTsX0k2E8NAjYKRjaXo6CRoWmx-5-KDAyJ_DM/edit?usp=sharing) (PDF) to the [chair administration](https://dse.in.tum.de/contact/).
 
 
