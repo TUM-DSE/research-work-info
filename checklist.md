@@ -49,7 +49,7 @@ All the steps needed to complete your research work at [DSE](https://dse.in.tum.
 
 * [ ] **Thesis title change**: Checked if working title is still suitable
 
-    * [ ] ... *If you wish to change the title*, please apply to **change the title** in consultation with your advisor: The student should send the [filled form](https://docs.google.com/document/d/1RAxqMniTsX0k2E8NAjYKRjaXo6CRoWmx-5-KDAyJ_DM/edit?usp=sharing) (PDF) to the [chair administration](https://dse.in.tum.de/contact/).
+    * [ ] ... *If you wish to change the title*, please first discuss the new title with your advisors and submit the [title change form](https://docs.google.com/document/d/1RAxqMniTsX0k2E8NAjYKRjaXo6CRoWmx-5-KDAyJ_DM/edit?usp=sharing) (PDF) to the [chair administration](https://dse.in.tum.de/contact/).
 
 
 ## Submission 
