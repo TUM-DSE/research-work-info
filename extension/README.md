@@ -4,7 +4,7 @@
 
 -  **Important:**  The student should consult their advisor and Prof. Bhatotia before seeking an extension. As per the department guidelines (see below), it is imperative that the student must properly explain their extension request reason in detail (at least half a page).
 
-- **Extension form submission and deadline:**     The application must be submitted **immediately** to the secretary responsible for your degree programme (Schriftführung) by email from your TUM address. _Medical certificates must also be submitted in the original (by post)_.
+- **Extension form submission and deadline:**     The application must be submitted **immediately** to the secretary responsible for your degree programme (Schriftführung) by email from your TUM address. 
 
 ## Department guidelines
 
@@ -14,7 +14,7 @@
 
 The department provides two extension forms:
 
- - [Due to health reasons](https://www.in.tum.de/fileadmin/w00bws/in/2.Fur_Studierende/Pruefungen_und_Formalitaeten/5.Abschlussarbeit/Request_ThesisExtension_Health.pdf)
+ - [Due to health reasons](https://www.in.tum.de/fileadmin/w00bws/in/2.Fur_Studierende/Pruefungen_und_Formalitaeten/5.Abschlussarbeit/Request_ThesisExtension_Health.pdf) **IMPORTANT:** _Medical certificates must also be submitted in the original (by post)_.
  
  - [Other reasons](https://www.in.tum.de/fileadmin/w00bws/in/2.Fur_Studierende/Pruefungen_und_Formalitaeten/5.Abschlussarbeit/Request_ThesisExtension_Other.pdf) 
 
