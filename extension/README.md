@@ -14,7 +14,8 @@
 
 The department provides two extension forms:
 
- - [Due to health reasons](https://www.in.tum.de/fileadmin/w00bws/in/2.Fur_Studierende/Pruefungen_und_Formalitaeten/5.Abschlussarbeit/Request_ThesisExtension_Health.pdf) **IMPORTANT:** _Medical certificates must also be submitted in the original (by post)_.
+ - [Due to health reasons](https://www.in.tum.de/fileadmin/w00bws/in/2.Fur_Studierende/Pruefungen_und_Formalitaeten/5.Abschlussarbeit/Request_ThesisExtension_Health.pdf)
+     -  **IMPORTANT:** _Medical certificates must also be submitted in the original (by post)_.
  
  - [Other reasons](https://www.in.tum.de/fileadmin/w00bws/in/2.Fur_Studierende/Pruefungen_und_Formalitaeten/5.Abschlussarbeit/Request_ThesisExtension_Other.pdf) 
 
