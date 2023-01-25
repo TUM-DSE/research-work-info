@@ -67,7 +67,7 @@ your content:
 |-------------------|------------|
 | Bachelor's thesis |  40 - 80    |
 | Master's thesis   | 60 - 120   |
-| Guided research/IDP |  10    |
+| Guided research/IDP |  5-10    |
 
 
 
