@@ -5,8 +5,8 @@
     -  **Guided Research/IDP registration** is allowed *only* at the beginning of each semester.
 
 - **Registration forms:**  
-    - **Thesis form:** The student must fill a [registration form](https://www.cit.tum.de/en/cit/studies/students/thesis-completing-your-studies/informatics/) based on their study program.
-    - **Guided research/IDP form**:The student must fill the [registration form](https://www.cit.tum.de/en/cit/studies/degree-programs/master-informatics/).
+    - **Thesis form:** The student must fill a [registration form](https://www.cit.tum.de/en/cit/studies/students/thesis-completing-your-studies/informatics/) ([PDF](https://www.cit.tum.de/fileadmin/w00byx/cit/Studium/Studiengaenge/Master_Informatik/masterthesis_Anmeldung_en.pdf)) based on their study program.
+    - **Guided research/IDP form**:The student must fill the [registration form](https://www.cit.tum.de/en/cit/studies/degree-programs/master-informatics/) ([form for GR](https://www.cit.tum.de/fileadmin/w00byx/cit/Studium/Studiengaenge/Master_Informatik/reg_GuidedResearch_en.pdf), [form for IDP](https://www.cit.tum.de/fileadmin/w00byx/cit/Studium/Studiengaenge/Master_Informatik/Antrag_IDP_EN.pdf)).
  
 - **Form submission:** The filled form must be submitted to the chair secretary **at least two weeks** before the deadline. 
 
