@@ -8,15 +8,15 @@
 
 ## Department guidelines
 
-- Please read carefully the department guidelines: [Extension of the submission deadline](https://www.in.tum.de/en/current-students/administrative-matters/thesis-guidelines-and-topics/)
+- Please read carefully the department guidelines: [Extension of the submission deadline](https://www.cit.tum.de/en/cit/studies/students/thesis-completing-your-studies/informatics/)
 
 ## Extension forms
 
 The department provides two extension forms:
 
- - [Due to health reasons](https://www.in.tum.de/fileadmin/w00bws/in/2.Fur_Studierende/Pruefungen_und_Formalitaeten/5.Abschlussarbeit/Request_ThesisExtension_Health.pdf)
+ - [Due to health reasons](https://www.cit.tum.de/fileadmin/w00byx/cit/Studium/Im_Studium/Thesis/Request_ThesisExtension_Health.pdf)
      -  **IMPORTANT:** _Medical certificates must also be submitted in the original (by post)_.
  
- - [Other reasons](https://www.in.tum.de/fileadmin/w00bws/in/2.Fur_Studierende/Pruefungen_und_Formalitaeten/5.Abschlussarbeit/Request_ThesisExtension_Other.pdf) 
+ - [Other reasons](https://www.cit.tum.de/fileadmin/w00byx/cit/Studium/Im_Studium/Thesis/Request_ThesisExtension_Other.pdf) 
 
 
