@@ -6,7 +6,7 @@
 
 - **Registration:**
 Thesis now need to be registered through: https://portal.cit.tum.de/
-The advisor should create the thesis. The system will send ask the student for confirmation.
+The advisor should create the thesis. The system will then ask the student for confirmation.
 Once both parties have accepted the thesis, it will be reviewed by the administration.
 
 - **Duration:** After the registration process, the clock starts! The standard stipulated time limit for your research work is as follows:
