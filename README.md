@@ -35,7 +35,7 @@ Your submission will proceed in the following five stages:
 
 - **Stage 4 (Wrap up):**
     - **#4.1 (Return resources):** Release/return any hardware resources used for the research work.
-    - **#4.2 (Update database):** Remove your entry from our [active research work database](https://github.com/TUM-DSE/research-work-archive/blob/main/active_research.md).
+    - **#4.2 (Update our database):** Remove your entry from our [active research work database](https://github.com/TUM-DSE/research-work-archive/blob/main/active_research.md).
     - **#4.3 (Archive documents):** After your final presentation, please add the following PDFs to [the chair's archive repository](https://github.com/TUM-DSE/research-work-archive) by submitting a pull request. 
 
           - Thesis/Report [PDF]
