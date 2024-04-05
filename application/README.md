@@ -1,7 +1,10 @@
 # Application Procedure
 
-Our application process is managed by the staff members. 
+**Important** [Application guidelines](https://dse.in.tum.de/thesis/)
 
-We process your application as per the following protocol. Please don't contact the staff members repeatedly. We will reach out to you after receiving your application. 
+
+The staff members manage our application process based on the following protocol. Please don't contact the staff members repeatedly. We'll reach out to you after we receive your application. 
 
 ![application procedure](./application-process.png)
+
+
