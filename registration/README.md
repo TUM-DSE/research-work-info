@@ -5,9 +5,11 @@
     -  **Guided Research/IDP registration** is allowed *only* at the beginning of each semester.
 
 - **Registration:**
-Thesis now need to be registered through: https://portal.cit.tum.de/
+The thesis now needs to be registered through https://portal.cit.tum.de/
 The advisor should create the thesis. The system will then ask the student for confirmation.
 Once both parties have accepted the thesis, it will be reviewed by the administration.
+
+**IMPORTANT:** Update the active research work database [https://github.com/TUM-DSE/research-work-archive/blob/main/active_theses.md].  
 
 - **Duration:** After the registration process, the clock starts! The standard stipulated time limit for your research work is as follows:
 
@@ -19,10 +21,10 @@ Once both parties have accepted the thesis, it will be reviewed by the administr
 
 ## Important guidelines
 
-- Given that we have a strict time limit to accomplish your research work (6 months for MSc thesis, 4 months for BSc thesis, 1 semester for Guided Research/IDP), please ensure that you clearly understand the problem statement and scope before initiating the registeration process.
+- Given that we have a strict time limit to accomplish your research work (6 months for MSc thesis, four months for BSc thesis, one semester for Guided Research/IDP), please ensure that you clearly understand the problem statement and scope before initiating the registration process.
 
 
-- In general, before initiating the registeration process, it is a good practice to closely work with your advisor. This would help you to get familiar with the related work, problem statement, and scope of your work. Please also briefly bootstrap the work by implementing a "strawman" design. This will give you a very good idea and confidence going forward. 
+- In general, before initiating the registration process, working closely with your advisor is a good practice. This would help you get familiar with the related work, problem statement, and scope of your work. Please also briefly bootstrap the work by implementing a "strawman" design. This will give you a very good idea and confidence as we advance. 
 
 
 
