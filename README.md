@@ -36,6 +36,7 @@ Your submission will proceed in the following five stages:
 - **Stage 4 (Archive documents):** After your final presentation, please add the following PDFs to [the chair's archive repository](https://github.com/TUM-DSE/research-work-archive) by submitting a pull request. 
     - Thesis/Report [PDF]
     - Presentation [PDF]
+    - Remove your entry from our [active research work database](https://github.com/TUM-DSE/research-work-archive/blob/main/active_research.md)
 
 - **Stage 5 (Assessment):**  After the final upload of your thesis/report and presentation PDFs, please contact your advisor to submit their final assessment form (see below) to the chair secretary. 
 
