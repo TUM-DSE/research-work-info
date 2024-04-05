@@ -9,7 +9,7 @@ The thesis now needs to be registered through https://portal.cit.tum.de/
 The advisor should create the thesis. The system will then ask the student for confirmation.
 Once both parties have accepted the thesis, it will be reviewed by the administration.
 
-**IMPORTANT:** Update the [active research work database](https://github.com/TUM-DSE/research-work-archive/blob/main/active_theses.md).  
+**IMPORTANT:** Update the [active research work database](https://github.com/TUM-DSE/research-work-archive/blob/main/active_research.md).  
 
 - **Duration:** After the registration process, the clock starts! The standard stipulated time limit for your research work is as follows:
 
