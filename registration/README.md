@@ -5,11 +5,11 @@
     -  **Guided Research/IDP registration** is allowed *only* at the beginning of each semester.
 
 - **Registration:**
-The thesis now needs to be registered through https://portal.cit.tum.de/
-The advisor should create the thesis. The system will then ask the student for confirmation.
-Once both parties have accepted the thesis, it will be reviewed by the administration.
 
-**IMPORTANT:** After successful registration, please update our [active research work database](https://github.com/TUM-DSE/research-work-archive/blob/main/active_research.md).  
+    - Step #1: Please update our [active research work database](https://github.com/TUM-DSE/research-work-archive/blob/main/active_research.md).
+    - Step #2: The research work is now officially registered through https://portal.cit.tum.de/ . The advisor should create the entry. The system will then ask the student for confirmation. Once both parties have accepted the thesis, it will be reviewed by the administration.
+
+**IMPORTANT:** After successful registration,   
 
 - **Duration:** After the registration process, the clock starts! The standard stipulated time limit for your research work is as follows:
 
