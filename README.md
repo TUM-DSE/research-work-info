@@ -29,16 +29,19 @@ Your submission will proceed in the following five stages:
 
     * **[Required ONLY for BSc/MSc thesis work]**: One printout of the final BSc/MSc thesis delivered to Prüfungsamt.
     * Final pdf to Prof. Bhatotia.
-    * Final pdf to advisor.
+    * Final pdf to the advisor.
 
 - **Stage 3 (Final presentation):** Please schedule and organize your final presentation talk in consultation with your advisor (see [presentation instructions](talk/README.md)).
 
-- **Stage 4 (Archive documents):** After your final presentation, please add the following PDFs to [the chair's archive repository](https://github.com/TUM-DSE/research-work-archive) by submitting a pull request. 
+- **Stage 4 (Remove your entry and release resources):**
+    - Remove your entry from our [active research work database](https://github.com/TUM-DSE/research-work-archive/blob/main/active_research.md).
+    - Release/return any hardware resources used for the research work.
+
+- **Stage 5 (Archive documents):**  After your final presentation, please add the following PDFs to [the chair's archive repository](https://github.com/TUM-DSE/research-work-archive) by submitting a pull request. 
     - Thesis/Report [PDF]
     - Presentation [PDF]
-    - Remove your entry from our [active research work database](https://github.com/TUM-DSE/research-work-archive/blob/main/active_research.md)
 
-- **Stage 5 (Assessment):**  After the final upload of your thesis/report and presentation PDFs, please contact your advisor to submit their final assessment form (see below) to the chair secretary. 
+- **Stage 6 (Assessment):**  After uploading your thesis/report and presentation PDFs, please contact your advisor to submit their final assessment form (see below) to the chair secretary. 
 
 ## Assessment 
 
@@ -55,7 +58,7 @@ Your submission will proceed in the following five stages:
     * **Note for Advisor's CV**: We require CVs only for the external advisors. The staff members at the chair do not need to submit their CV.
 
 ## Grading
-For grading, the standard TUM grading scheme will be used. Please see the table below.
+The standard TUM grading scheme will be used for grading. Please see the table below.
 
 | Grade score       | Grade title   |
 |-------------------|---------------|
@@ -75,4 +78,4 @@ For grading, the standard TUM grading scheme will be used. Please see the table 
 
 ## Contact
 
-For any further questions/comments, please contact our [chair administration](https://dse.in.tum.de/contact/).
+For any further questions/comments, please get in touch with our [chair administration](https://dse.in.tum.de/contact/).
