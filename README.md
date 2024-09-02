@@ -27,7 +27,7 @@ Your submission will proceed in the following five stages:
 
 - **Stage 2 (Formal submission):** After their final approval, please submit the following:
 
-    * **[Required ONLY for BSc/MSc thesis work]**: One printout of the final BSc/MSc thesis delivered to Prüfungsamt.
+    * ~~One printout of the final BSc/MSc thesis delivered to Prüfungsamt.~~ (Not needed anymore; your advisor will upload the pdf to https://portal.cit.tum.de)
     * Final pdf to Prof. Bhatotia.
     * Final pdf to the advisor.
 
