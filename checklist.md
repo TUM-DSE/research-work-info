@@ -60,8 +60,8 @@ thesis/report:
 * [ ] Sent a thesis/report draft to Prof. Bhatotia
 
 After the final approval, submit the thesis/report:
-* [ ] One thesis printout delivered to Prüfungsamt (**ONLY** required for
-      BSc/MSc thesis)
+* [ ] ~~One thesis printout delivered to Prüfungsamt (**ONLY** required for
+      BSc/MSc thesis)~~
 * [ ] One PDF to Prof. Bhatotia
 * [ ] One PDF to each advisor
 
