@@ -63,22 +63,18 @@ your content:
 
 ## Expected page count
 
-|                    | Page count |
-|-------------------|------------|
-| Bachelor's thesis |  40 - 80    |
-| Master's thesis   | 60 - 120   |
-| Guided research/IDP |  5-10    |
+| Type                | Page count |
+|---------------------|------------|
+| Bachelor's thesis   | 40 - 80    |
+| Master's thesis     | 60 - 120   |
+| Guided research/IDP | 5-10       |
 
 
 
 ## Resources
 
 * [Simon Peyton Jones: How to write a great research paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
-
 * [Simon Peyton Jones: How to write a great research proposal](https://www.microsoft.com/en-us/research/academic-program/how-to-write-a-great-research-proposal/)
-
-
 * [Wie schreibe ich eine erfolgreiche Bachelorarbeit (oder Masterarbeit) in Informatik?](https://www.youtube.com/watch?v=wV0QURyJ0f8)
-
 * [How to Write a Great Master Thesis? Best (and worst) practices from choosing a topic to handing in](https://www.youtube.com/watch?v=SC_fIWKbCa0)
 

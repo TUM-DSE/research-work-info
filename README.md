@@ -23,36 +23,27 @@ your research work. Overall, you will go through the following phases:
 
 Your submission will proceed in the following five stages:
 
--  **Stage 1 (Approval):** *At least two weeks* before the submission deadline, please send a PDF copy of your thesis/report to your advisor and Prof. Bhatotia for their final feedback and approval.
-
+- **Stage 1 (Approval):** *At least two weeks* before the submission deadline, please send a PDF copy of your thesis/report to your advisor and Prof. Bhatotia for their final feedback and approval.
 - **Stage 2 (Formal submission):** After their final approval, please submit the following:
-
-    * ~~One printout of the final BSc/MSc thesis delivered to Prüfungsamt.~~ (Not needed anymore; your advisor will upload the pdf to https://portal.cit.tum.de)
-    * Final pdf to Prof. Bhatotia.
-    * Final pdf to the advisor.
-
+    - ~~One printout of the final BSc/MSc thesis delivered to Prüfungsamt.~~ (Not needed anymore; your advisor will upload the pdf to https://portal.cit.tum.de)
+    - Final pdf to Prof. Bhatotia.
+    - Final pdf to the advisor.
 - **Stage 3 (Final presentation):** Please schedule and organize your final presentation talk in consultation with your advisor (see [presentation instructions](talk/README.md)).
-
 - **Stage 4 (Wrap up):**
     - **#4.1 (Return resources):** Release/return any hardware resources used for the research work.
     - **#4.2 (Update our database):** Remove your entry from our [active research work database](https://github.com/TUM-DSE/research-work-archive/blob/main/active_research.md).
     - **#4.3 (Archive documents):** After your final presentation, please add the following PDFs to [the chair's archive repository](https://github.com/TUM-DSE/research-work-archive) by submitting a pull request. 
-
           - Thesis/Report [PDF]
           - Presentation [PDF]
-
 - **Stage 5 (Assessment):**  After uploading your thesis/report and presentation PDFs, please contact your advisor to submit their final assessment form (see below) to the chair secretary. 
 
 ## Assessment 
 
 - **Assessment criteria:**  The overall grade is based on the following four dimensions:
-
     * Research work
     * Implementation and evaluation
     * Thesis/Report write-up
     * Presentation
-
-
 - **Assessment submission:** The advisor must use the following form for the final assesment. Please send the assessement form *along with Advisor's own CV* to the [chair secretary](https://dse.in.tum.de/contact/).
     * [Assessment form](https://docs.google.com/document/d/1Isy1vj3w-B3UzykZMwliBM8m0YdpLMrTRgCtAUVF0so/edit?usp=sharing) 
     * **Note for Advisor's CV**: We require CVs only for the external advisors. The staff members at the chair do not need to submit their CV.

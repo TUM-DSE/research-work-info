@@ -43,12 +43,9 @@ All the steps needed to complete your research work at [DSE](https://dse.in.tum.
 2 months before submission:
 * [ ] **Thesis/Report**: I checked the resources on how to write a
       [thesis/report](thesis-report/README.md).
-      
     * [ ] Thesis/report structure prepared
     * [ ] ... and discussed with advisors
-
 * [ ] **Thesis title change**: Checked if working title is still suitable
-
     * [ ] ... *If you wish to change the title*, please first discuss the new title with your advisors and submit the [title change form](https://docs.google.com/document/d/1RAxqMniTsX0k2E8NAjYKRjaXo6CRoWmx-5-KDAyJ_DM/edit?usp=sharing) (PDF) to the [chair administration](https://dse.in.tum.de/contact/).
 
 
@@ -60,8 +57,6 @@ thesis/report:
 * [ ] Sent a thesis/report draft to Prof. Bhatotia
 
 After the final approval, submit the thesis/report:
-* [ ] ~~One thesis printout delivered to Prüfungsamt (**ONLY** required for
-      BSc/MSc thesis)~~
 * [ ] One PDF to Prof. Bhatotia
 * [ ] One PDF to each advisor
 
