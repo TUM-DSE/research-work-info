@@ -25,9 +25,8 @@ Your submission will proceed in the following five stages:
 
 - **Stage 1 (Approval):** *At least two weeks* before the submission deadline, please send a PDF copy of your thesis/report to your advisor and Prof. Bhatotia for their final feedback and approval.
 - **Stage 2 (Formal submission):** After their final approval, please submit the following:
-    - ~~One printout of the final BSc/MSc thesis delivered to Prüfungsamt.~~ (Not needed anymore; your advisor will upload the pdf to https://portal.cit.tum.de)
-    - Final pdf to Prof. Bhatotia.
-    - Final pdf to the advisor.
+    - Upload the final PDF to https://portal.cit.tum.de. You __don't__ need to submit a physical copy to the examination office (Prüfungsamt) anymore. 
+    - An email with the final PDF to Prof. Bhatotia and your advisor.
 - **Stage 3 (Final presentation):** Please schedule and organize your final presentation talk in consultation with your advisor (see [presentation instructions](talk/README.md)).
 - **Stage 4 (Wrap up):**
     - **#4.1 (Return resources):** Release/return any hardware resources used for the research work.
