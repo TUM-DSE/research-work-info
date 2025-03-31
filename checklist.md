@@ -1,4 +1,4 @@
-# Checklist
+# Thesis Checklist
 
 All the steps needed to complete your research work at [DSE](https://dse.in.tum.de/).
 
@@ -10,32 +10,44 @@ All the steps needed to complete your research work at [DSE](https://dse.in.tum.
     - [thesis/report](thesis-report/README.md)
     - [talk](talk/README.md)
     - [extension](extension/README.md)
-    
+
 4-8 weeks before registration:
 * [ ] I familiarized myself with the research topic
 * [ ] I read related work about the research topic
 * [ ] I proposed a thesis timeline with concrete steps to my advisors
-* [ ] I asked my advisors to enroll myself to the slack workspace
-      (*ls1-tum.slack.com*), and I joined *#ls1-students* channel
+* [ ] I asked my advisors to enroll myself to the [slack workspace](https://ls1-tum.slack.com),
+      and I joined `#ls1-students` channel
 
 2 weeks before registration:
-* [ ] Filled in the [registration form](registration/README.md), returned to
-      secretary of the chair
+* [ ] Read through the [registration guidelines](registration/README.md) and
+      initiated the registration process with my advisors
 
 
 ## Registration
 
-* [ ] I registered my BSc/MsC thesis towards the 15th of a month, or
+* [ ] I registered my BSc/MSc thesis, or
 * [ ] I registered my GR/IDP at the beginning of the semester
 
 
+## Proposal Presentation
+
+In the first week after registration:
+* [ ] Scheduled a proposal presentation with my advisors
+* [ ] Prepared the proposal presentation covering the context, research gap, and
+      importance
+  * **Context**: What is the broader area of research? What is already known?
+  * **Gap**: What is missing in the current knowledge or approaches? What has
+    not been addressed yet?
+  * **Importance**: Why is it important to address this gap?
+* [ ] Gave the proposal talk to my advisors and supervisor
+
 ## Intermediate presentation
 
-1 month after the official start:
+Halfway towards the end of my thesis:
 * [ ] Scheduled an intermediate presentation with my advisors. Date: yyyy-mm-dd hh:mm
 * [ ] Prepared the intermediate talk covering the problem statement, related
       work, and a "strawman" design (see [Talk instructions](talk/README.md))
-* [ ] I gave the intermediate talk to my advisors
+* [ ] Gave the intermediate talk to my advisors and supervisor
 
 
 ## Towards submission
@@ -46,10 +58,11 @@ All the steps needed to complete your research work at [DSE](https://dse.in.tum.
     * [ ] Thesis/report structure prepared
     * [ ] ... and discussed with advisors
 * [ ] **Thesis title change**: Checked if working title is still suitable
-    * [ ] ... *If you wish to change the title*, please first discuss the new title with your advisors and submit the [title change form](https://docs.google.com/document/d/1RAxqMniTsX0k2E8NAjYKRjaXo6CRoWmx-5-KDAyJ_DM/edit?usp=sharing) (PDF) to the [chair administration](https://dse.in.tum.de/contact/).
+    * [ ] ... *If you wish to change the title*, please first discuss the new title with your advisors.
+          Update the title of the thesis, the advisors/chair secretary will update the official title when submitting the thesis
 
 
-## Submission 
+## Submission
 
 2 weeks before the submission deadline get approval to submit the
 thesis/report:
@@ -57,6 +70,7 @@ thesis/report:
 * [ ] Sent a thesis/report draft to Prof. Bhatotia
 
 After the final approval, submit the thesis/report:
+* [ ] Upload your thesis at [https://portal.cit.tum.de](https://portal.cit.tum.de).
 * [ ] One PDF to Prof. Bhatotia
 * [ ] One PDF to each advisor
 
@@ -79,7 +93,11 @@ Archive the following to the [chair's archive repository](https://github.com/TUM
 * [ ] Thesis/Report [PDF]
 * [ ] Presentation slides [PDF]
 
+Archive your code to the [chair's artifact archive repository](https://github.com/TUM-DSE/research-work-archive-artifacts):
+* [ ] Code
+* [ ] Add an appropriate open source license (e.g., MIT, Apache, GPL, ...)
 
 ## Assessment
 
 * [ ] [I requested assessment of my work](README.md#Assessment)
+
