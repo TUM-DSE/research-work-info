@@ -14,6 +14,7 @@ All the steps needed to complete your research work at [DSE](https://dse.in.tum.
 4-8 weeks before registration:
 * [ ] I familiarized myself with the research topic
 * [ ] I read related work about the research topic
+* [ ] I have met Prof. Bhatotia with my advisors and discussed the research topic
 * [ ] I proposed a thesis timeline with concrete steps to my advisors
 * [ ] I asked my advisors to enroll myself to the [slack workspace](https://ls1-tum.slack.com),
       and I joined `#ls1-students` channel
