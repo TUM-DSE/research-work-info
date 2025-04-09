@@ -40,6 +40,7 @@ In the first week after registration:
   * **Gap**: What is missing in the current knowledge or approaches? What has
     not been addressed yet?
   * **Importance**: Why is it important to address this gap?
+  * **Plan**: How do you plan to tackle this problem ? Can you highlight key steps ?
 * [ ] Gave the proposal talk to my advisors and supervisor
 
 ## Intermediate presentation
