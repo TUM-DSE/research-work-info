@@ -42,7 +42,7 @@ In the first week after registration:
   * **Importance**: Why is it important to address this gap?
   * **Plan**: How do you plan to tackle this problem ? Can you highlight key steps ?
 * [ ] Gave the proposal talk to my advisors and supervisor
-  * The talk should be between 5 and 10 mins. It will be attended by members of the chair, be ready for questions.
+  * The talk should be 5 mins. It will be attended by members of the chair, be ready for questions.
 
 ## Intermediate presentation
 
@@ -51,7 +51,7 @@ Halfway towards the end of my thesis:
 * [ ] Prepared the intermediate talk covering the problem statement, related
       work, and a "strawman" design (see [Talk instructions](talk/README.md))
 * [ ] Gave the intermediate talk to my advisors and supervisor
-
+  * The talk should be around 10 mins.
 
 ## Towards submission
 
