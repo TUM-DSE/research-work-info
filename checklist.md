@@ -29,8 +29,13 @@ All the steps needed to complete your research work at [DSE](https://dse.in.tum.
 * [ ] I registered my BSc/MSc thesis, or
 * [ ] I registered my GR/IDP at the beginning of the semester
 
+## Presentations
 
-## Proposal Presentation
+You will have to present your work at three occasions: a proposal, an intermediate and a final presentation.
+We schedule presentations on Wednesdays between 16:00 and 17:00. Coordinate with your advisor to reserve a spot on the relevant week.
+Presentations will be attended by chair members, be ready for questions.
+
+### Proposal Presentation
 
 In the first week after registration:
 * [ ] Scheduled a proposal presentation with my advisors
@@ -42,9 +47,9 @@ In the first week after registration:
   * **Importance**: Why is it important to address this gap?
   * **Plan**: How do you plan to tackle this problem ? Can you highlight key steps ?
 * [ ] Gave the proposal talk to my advisors and supervisor
-  * The talk should be 5 mins. It will be attended by members of the chair, be ready for questions.
+  * The talk should be 5 mins.
 
-## Intermediate presentation
+### Intermediate presentation
 
 Halfway towards the end of my thesis:
 * [ ] Scheduled an intermediate presentation with my advisors. Date: yyyy-mm-dd hh:mm
@@ -52,6 +57,17 @@ Halfway towards the end of my thesis:
       work, and a "strawman" design (see [Talk instructions](talk/README.md))
 * [ ] Gave the intermediate talk to my advisors and supervisor
   * The talk should be around 10 mins.
+     
+### Final presentation
+
+* [ ] Scheduled the final presentation with my advisors. Date: yyyy-mm-dd hh:mm
+
+About 1-2 weeks before final talk:
+* [ ] Beta version of slides ready
+* [ ] ... and discussed with advisors
+
+Final talk:
+* [ ] Final presentation given to the advisors
 
 ## Towards submission
 
@@ -76,18 +92,6 @@ After the final approval, submit the thesis/report:
 * [ ] Upload your thesis at [https://portal.cit.tum.de](https://portal.cit.tum.de).
 * [ ] One PDF to Prof. Bhatotia
 * [ ] One PDF to each advisor
-
-
-## Final presentation
-
-* [ ] Scheduled the final presentation with my advisors. Date: yyyy-mm-dd hh:mm
-
-About 1-2 weeks before final talk:
-* [ ] Beta version of slides ready
-* [ ] ... and discussed with advisors
-
-Final talk:
-* [ ] Final presentation given to the advisors
 
 
 ## Archive research work
