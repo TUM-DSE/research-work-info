@@ -5,8 +5,8 @@ Please have these guidelines in mind when writing your BSc/MSc **thesis** or Gui
 
 ## Template
 
-- **BSc/MSc thesis template**: Please use the following template for writing your thesis: [Thesis template](https://github.com/TUM-Dev/tum-thesis-latex) 
-
+- **BSc/MSc thesis template**: Please use the following template for writing your thesis: [Thesis template](https://github.com/TUM-Dev/tum-thesis-latex).
+Please use the blue TUM logo (`tum-black_alt.pdf`).
 - **Guided research/IDP report template**: Please use the following template for writing your report: [Template](https://www.usenix.org/conferences/author-resources/paper-templates) 
 
 
