@@ -71,6 +71,21 @@ your content:
 
 
 
+## Notes on AI
+
+For the write-up:
+- We generally **do not allow the use of AI** (Chatbots, AI agents, anything that automates writing) for the write-up.
+- We understand that english is not everyones native language and we do not pedantically check for grammar mistakes. Tools that *check* your grammar are allowed ([TUM provides access to grammarly](https://www.digitalisierung.tum.de/en/grammarly-available-for-all-tum-members/)).
+- The goal of the thesis/report is to learn how to conduct research and how to write down your findings in a structured manner, not to hand in the required number of pages.
+
+For the implementation:
+- Again, we generally do not allow the use of AI in a fully autonomous manner (AI agents).
+- We want you to understand the problem space and develop the technical skills needed for a good implementation.
+- For sufficiently hard problems or complex tools (both common at our chair) AI will not be able to help you. Write down your problems and ask your advisor for help instead.
+- For less technical code (boilerplate, scripts for plotting, etc.) Copilot or similar line-completion tools are allowed.
+
+
+
 ## Resources
 
 * [Simon Peyton Jones: How to write a great research paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
