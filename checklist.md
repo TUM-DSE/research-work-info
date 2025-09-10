@@ -31,8 +31,8 @@ All the steps needed to complete your research work at [DSE](https://dse.in.tum.
 
 ## Presentations
 
-You will have to present your work at three occasions: a proposal, an intermediate and a final presentation.
-We schedule presentations on Wednesdays between 16:00 and 17:00. Coordinate with your advisor to reserve a spot on the relevant week.
+You will have to present your work at two or three occasions: a proposal, an optional intermediate and a final presentation.
+We schedule presentations on Tuesdays between 16:00 and 17:00. Coordinate with your advisor to reserve a spot on the relevant week.
 Presentations will be attended by chair members, be ready for questions.
 
 ### Proposal Presentation
@@ -52,11 +52,12 @@ In the first week after registration:
 ### Intermediate presentation
 
 Halfway towards the end of my thesis:
-* [ ] Scheduled an intermediate presentation with my advisors. Date: yyyy-mm-dd hh:mm
-* [ ] Prepared the intermediate talk covering the problem statement, related
+* [ ] I write a MSc thesis, and my intermediate results should be discussed or my plan started to deviate from the initially presented one.
+    * [ ] Scheduled an intermediate presentation with my advisors. Date: yyyy-mm-dd hh:mm
+    * [ ] Prepared the intermediate talk covering the problem statement, related
       work, and a "strawman" design (see [Talk instructions](talk/README.md))
-* [ ] Gave the intermediate talk to my advisors and supervisor
-  * The talk should be around 10 mins.
+    * [ ] Gave the intermediate talk to my advisors and supervisor
+        * The talk should be around 10 mins.
      
 ### Final presentation
 
