@@ -49,16 +49,6 @@ In the first week after registration:
 * [ ] Gave the proposal talk to my advisors and supervisor
   * The talk should be 5 mins.
 
-### Intermediate presentation
-
-Halfway towards the end of my thesis:
-* [ ] I write a MSc thesis, and my intermediate results should be discussed or my plan started to deviate from the initially presented one.
-    * [ ] Scheduled an intermediate presentation with my advisors. Date: yyyy-mm-dd hh:mm
-    * [ ] Prepared the intermediate talk covering the problem statement, related
-      work, and a "strawman" design (see [Talk instructions](talk/README.md))
-    * [ ] Gave the intermediate talk to my advisors and supervisor
-        * The talk should be around 10 mins.
-     
 ### Final presentation
 
 * [ ] Scheduled the final presentation with my advisors. Date: yyyy-mm-dd hh:mm
